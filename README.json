@@ -34,7 +34,7 @@
             "last_commit": "2026-08-13T16:00:51Z",
             "owner": "frida",
             "repo": "frida",
-            "stars": 21625
+            "stars": 21632
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2026-04-25T15:34:01Z",
             "owner": "cgsecurity",
             "repo": "testdisk",
-            "stars": 2525
+            "stars": 2527
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2023-05-26T08:26:00Z",
             "owner": "korczis",
             "repo": "foremost",
-            "stars": 371
+            "stars": 372
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2025-05-16T13:40:55Z",
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8058
+            "stars": 8059
           }
         },
         {
@@ -242,7 +242,7 @@
             "last_commit": "2026-06-20T05:43:47Z",
             "owner": "sleuthkit",
             "repo": "autopsy",
-            "stars": 3278
+            "stars": 3281
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2026-08-11T21:41:06Z",
             "owner": "sleuthkit",
             "repo": "sleuthkit",
-            "stars": 3126
+            "stars": 3127
           }
         },
         {
@@ -337,7 +337,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T16:22:49Z",
+            "last_commit": "2026-08-15T03:19:59Z",
             "owner": "simsong",
             "repo": "bulk_extractor",
             "stars": 1407
@@ -438,7 +438,7 @@
             "last_commit": "2016-07-25T00:39:38Z",
             "owner": "n0fate",
             "repo": "volafox",
-            "stars": 174
+            "stars": 175
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2026-08-04T04:50:06Z",
             "owner": "qazbnm456",
             "repo": "awesome-web-security",
-            "stars": 13678
+            "stars": 13680
           }
         },
         {
@@ -632,7 +632,7 @@
             "last_commit": "2026-08-13T10:44:50Z",
             "owner": "Exiv2",
             "repo": "exiv2",
-            "stars": 1151
+            "stars": 1153
           }
         },
         {
@@ -756,7 +756,7 @@
             "last_commit": "2026-08-10T15:24:50Z",
             "owner": "bleachbit",
             "repo": "bleachbit",
-            "stars": 6575
+            "stars": 6576
           }
         },
         {
@@ -784,7 +784,7 @@
             "last_commit": "2026-07-15T17:55:32Z",
             "owner": "tuxera",
             "repo": "ntfs-3g",
-            "stars": 1465
+            "stars": 1466
           }
         },
         {
@@ -942,7 +942,7 @@
             "last_commit": "2025-09-05T16:43:43Z",
             "owner": "huntergregal",
             "repo": "mimipenguin",
-            "stars": 4152
+            "stars": 4153
           }
         }
       ],
@@ -1241,7 +1241,7 @@
             "last_commit": "2025-10-10T18:59:01Z",
             "owner": "ragibson",
             "repo": "Steganography",
-            "stars": 657
+            "stars": 658
           }
         },
         {
@@ -1416,7 +1416,7 @@
             "last_commit": "2026-05-24T19:55:24Z",
             "owner": "rfxn",
             "repo": "linux-malware-detect",
-            "stars": 1486
+            "stars": 1487
           }
         },
         {
@@ -1430,7 +1430,7 @@
             "last_commit": "2019-05-08T19:49:27Z",
             "owner": "rieck",
             "repo": "malheur",
-            "stars": 377
+            "stars": 375
           }
         }
       ],
@@ -1450,7 +1450,7 @@
             "last_commit": "2024-03-01T03:31:20Z",
             "owner": "hephaest0s",
             "repo": "usbkill",
-            "stars": 4609
+            "stars": 4611
           }
         },
         {
@@ -1586,7 +1586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:54:56.060Z",
+    "last_updated": "2026-08-15T19:32:35.437Z",
     "original_repository": "shadawck/awesome-anti-forensic",
     "original_repository_sha": "89656021757d1e628af40458f5c95ae27d6e6868",
     "enhanced_repository": "enhansome/enhansome-anti-forensic",
