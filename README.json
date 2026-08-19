@@ -22,7 +22,7 @@
                     "last_commit": "2024-08-07T13:03:21Z",
                     "owner": "Nightbringer21",
                     "repo": "fridump",
-                    "stars": 856
+                    "stars": 857
                   }
                 }
               ],
@@ -33,7 +33,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21670
+                "stars": 21674
               }
             },
             {
@@ -115,7 +115,7 @@
                 "last_commit": "2026-08-19T11:14:25Z",
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2531
+                "stars": 2532
               }
             },
             {
@@ -272,7 +272,7 @@
                 "last_commit": "2026-08-19T03:11:29Z",
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3129
+                "stars": 3130
               }
             },
             {
@@ -800,10 +800,10 @@
                 "archived": false,
                 "id": 17578592,
                 "language": "Python",
-                "last_commit": "2026-08-19T04:51:31Z",
+                "last_commit": "2026-08-19T19:13:26Z",
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 6616
+                "stars": 6623
               }
             },
             {
@@ -833,7 +833,7 @@
                 "last_commit": "2026-07-15T17:55:32Z",
                 "owner": "tuxera",
                 "repo": "ntfs-3g",
-                "stars": 1470
+                "stars": 1471
               }
             },
             {
@@ -1207,7 +1207,7 @@
                 "last_commit": "2024-10-01T20:19:13Z",
                 "owner": "KuroLabs",
                 "repo": "stegcloak",
-                "stars": 3864
+                "stars": 3865
               }
             },
             {
@@ -1222,7 +1222,7 @@
                 "last_commit": "2022-11-27T14:31:20Z",
                 "owner": "DominicBreuker",
                 "repo": "stego-toolkit",
-                "stars": 2684
+                "stars": 2685
               }
             },
             {
@@ -1537,7 +1537,7 @@
                 "last_commit": "2024-03-01T03:31:20Z",
                 "owner": "hephaest0s",
                 "repo": "usbkill",
-                "stars": 4620
+                "stars": 4621
               }
             },
             {
@@ -1677,7 +1677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:23.979Z",
+    "last_updated": "2026-08-19T19:36:56.629Z",
     "original_repository": "shadawck/awesome-anti-forensic",
     "original_repository_id": 188878037,
     "original_repository_sha": "89656021757d1e628af40458f5c95ae27d6e6868",
