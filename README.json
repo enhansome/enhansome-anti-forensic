@@ -1,1593 +1,1685 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Frida",
+              "description": "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Fridump",
+                  "description": "A universal memory dumper using Frida.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 58191695,
+                    "language": "Python",
+                    "last_commit": "2024-08-07T13:03:21Z",
+                    "owner": "Nightbringer21",
+                    "repo": "fridump",
+                    "stars": 856
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 9405122,
+                "language": "Meson",
+                "last_commit": "2026-08-18T13:32:43Z",
+                "owner": "frida",
+                "repo": "frida",
+                "stars": 21670
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dmg2img",
+              "description": "A CLI tool to uncompress Apple's compressed DMG files to the HFS+ IMG format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28820709,
+                "language": "C",
+                "last_commit": "2020-12-27T18:29:17Z",
+                "owner": "Lekensteyn",
+                "repo": "dmg2img",
+                "stars": 271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bmap-tools",
+              "description": "Tool for copying largely sparse files using information from a block map file.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 55086749,
+                "language": "Python",
+                "last_commit": "2024-10-16T20:37:45Z",
+                "owner": "intel",
+                "repo": "bmap-tools",
+                "stars": 240
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Imagemounter",
+              "description": "Command line utility and Python package to ease the (un)mounting of forensic disk images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16476185,
+                "language": "Python",
+                "last_commit": "2023-02-09T15:49:13Z",
+                "owner": "ralphje",
+                "repo": "imagemounter",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Afflib",
+              "description": "An extensible open format for the storage of disk images and related forensic.information.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24747019,
+                "language": "C++",
+                "last_commit": "2026-05-15T22:38:12Z",
+                "owner": "sshock",
+                "repo": "AFFLIBv3",
+                "stars": 94
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "System/Digital Image"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TestDisk & PhotoRec",
+              "description": "TestDisk checks the partition and boot sectors of your disks. It is very useful in recovering lost partitions. PhotoRec is file data recovery software designed to recover lost pictures from digital camera memory or even hard disks. It has been extended to search also for non audio/video headers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37376198,
+                "language": "C",
+                "last_commit": "2026-08-19T11:14:25Z",
+                "owner": "cgsecurity",
+                "repo": "testdisk",
+                "stars": 2531
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mxtract",
+              "description": "Memory Extractor & Analyzer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176359838,
+                "language": "C++",
+                "last_commit": "2021-11-09T16:52:10Z",
+                "owner": "rek7",
+                "repo": "mXtract",
+                "stars": 587
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Foremost",
+              "description": "A console program to recover files based on their headers, footers, and internal data structures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5049997,
+                "language": "C",
+                "last_commit": "2023-05-26T08:26:00Z",
+                "owner": "korczis",
+                "repo": "foremost",
+                "stars": 374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Recoverjpeg",
+              "description": "Recover jpegs from damaged devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1108684,
+                "language": "C",
+                "last_commit": "2023-01-29T07:34:31Z",
+                "owner": "samueltardieu",
+                "repo": "recoverjpeg",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MemFetch",
+              "description": "Simple utility that can be used to dump process memory of any userspace process running on the system without affecting its execution.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23058822,
+                "language": "C",
+                "last_commit": "2018-02-08T09:38:14Z",
+                "owner": "citypw",
+                "repo": "lcamtuf-memfetch",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MemDump",
+              "description": "Dumps system memory to stdout, skipping over holes in memory maps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125019629,
+                "language": "C",
+                "last_commit": "2018-03-13T09:19:31Z",
+                "owner": "kost",
+                "repo": "memdump",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scrounge-Ntfs",
+              "description": "Data recovery program for NTFS file systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82218158,
+                "language": "C",
+                "last_commit": "2017-02-16T20:17:13Z",
+                "owner": "lcorbasson",
+                "repo": "scrounge-ntfs",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MagicRescue",
+              "description": "Find and recover deleted files on block devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153133657,
+                "language": "C",
+                "last_commit": "2021-09-12T16:00:40Z",
+                "owner": "jbj",
+                "repo": "magicrescue",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Recovering tool / Memory Extraction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Volatility",
+              "description": "Advanced memory forensics framework.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 19114225,
+                "language": "Python",
+                "last_commit": "2025-05-16T13:40:55Z",
+                "owner": "volatilityfoundation",
+                "repo": "volatility",
+                "stars": 8059
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Autopsy",
+              "description": "The forensic browser. A GUI for the Sleuth Kit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2516243,
+                "language": "Java",
+                "last_commit": "2026-06-20T05:43:47Z",
+                "owner": "sleuthkit",
+                "repo": "autopsy",
+                "stars": 3289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sleuthkit",
+              "description": "A library and collection of command line digital forensics tools that allow you to investigate volume and file system data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2562873,
+                "language": "C",
+                "last_commit": "2026-08-19T03:11:29Z",
+                "owner": "sleuthkit",
+                "repo": "sleuthkit",
+                "stars": 3129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Emldump",
+              "description": "Analyze MIME files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35275445,
+                "language": "Python",
+                "last_commit": "2026-07-30T13:37:13Z",
+                "owner": "DidierStevens",
+                "repo": "DidierStevensSuite",
+                "stars": 2520
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pdfid",
+              "description": "Scan a file to look for certain PDF keywords.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35275445,
+                "language": "Python",
+                "last_commit": "2026-07-30T13:37:13Z",
+                "owner": "DidierStevens",
+                "repo": "DidierStevensSuite",
+                "stars": 2520
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rekall",
+              "description": "Memory Forensic Framework.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 19864741,
+                "language": "Python",
+                "last_commit": "2020-10-18T04:33:58Z",
+                "owner": "google",
+                "repo": "rekall",
+                "stars": 2007
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PcapXray",
+              "description": "Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105499052,
+                "language": "Python",
+                "last_commit": "2026-05-01T07:33:19Z",
+                "owner": "srixivas",
+                "repo": "PcapXray",
+                "stars": 1876
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Peepdf",
+              "description": "A Python tool to explore PDF files in order to find out if the file can be harmful or not.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33893135,
+                "language": "Python",
+                "last_commit": "2024-08-19T14:03:04Z",
+                "owner": "jesparza",
+                "repo": "peepdf",
+                "stars": 1461
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bulk-extractor",
+              "description": "Bulk Email and URL extraction tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3914697,
+                "language": "C++",
+                "last_commit": "2026-08-18T02:21:24Z",
+                "owner": "simsong",
+                "repo": "bulk_extractor",
+                "stars": 1409
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "captipper",
+              "description": "Malicious HTTP traffic explorer tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29181792,
+                "language": "Python",
+                "last_commit": "2023-03-16T02:20:12Z",
+                "owner": "omriher",
+                "repo": "CapTipper",
+                "stars": 725
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Recuperabit",
+              "description": "A tool for forensic file system reconstruction.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50295498,
+                "language": "Python",
+                "last_commit": "2026-07-26T20:05:07Z",
+                "owner": "Lazza",
+                "repo": "RecuperaBit",
+                "stars": 622
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swap-digger",
+              "description": "A tool used to automate Linux swap analysis during post-exploitation or forensics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96909591,
+                "language": "Shell",
+                "last_commit": "2021-06-26T13:33:55Z",
+                "owner": "sevagas",
+                "repo": "swap_digger",
+                "stars": 536
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ntdsxtract",
+              "description": "[windows]: Active Directory forensic framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23759327,
+                "language": "Python",
+                "last_commit": "2022-03-24T01:07:18Z",
+                "owner": "csababarta",
+                "repo": "ntdsxtract",
+                "stars": 335
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Indxparse",
+              "description": "A Tool suite for inspecting NTFS artifacts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2321587,
+                "language": "Python",
+                "last_commit": "2023-11-01T10:59:54Z",
+                "owner": "williballenthin",
+                "repo": "INDXParse",
+                "stars": 227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xplico",
+              "description": "Internet Traffic Decoder. Network Forensic Analysis Tool (NFAT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49361985,
+                "language": "PHP",
+                "last_commit": "2020-08-28T15:46:24Z",
+                "owner": "xplico",
+                "repo": "xplico",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volafox",
+              "description": "macOS Memory Analysis Toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32310199,
+                "language": "Python",
+                "last_commit": "2016-07-25T00:39:38Z",
+                "owner": "n0fate",
+                "repo": "volafox",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LiMEaide",
+              "description": "Remotely dump RAM of a Linux client and create a volatility profile for later analysis on your local host.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79495753,
+                "language": "Python",
+                "last_commit": "2020-08-26T14:34:27Z",
+                "owner": "kd8bny",
+                "repo": "LiMEaide",
+                "stars": 157
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rifiuti2",
+              "description": "A rewrite of rifiuti, a great tool from Foundstone folks for analyzing Windows Recycle Bin INFO2 file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32100044,
+                "language": "C",
+                "last_commit": "2025-11-11T05:20:25Z",
+                "owner": "abelcheung",
+                "repo": "rifiuti2",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dumpzilla",
+              "description": "A forensic tool for firefox.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49797654,
+                "language": "Python",
+                "last_commit": "2025-12-09T15:28:51Z",
+                "owner": "Busindre",
+                "repo": "dumpzilla",
+                "stars": 148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IPBA2",
+              "description": "IOS Backup Analyzer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7750365,
+                "language": "Python",
+                "last_commit": "2014-05-05T08:18:27Z",
+                "owner": "PicciMario",
+                "repo": "iPhone-Backup-Analyzer-2",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PdfResurrect",
+              "description": "A tool aimed at analyzing PDF documents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11094676,
+                "language": "C",
+                "last_commit": "2022-09-10T17:21:03Z",
+                "owner": "enferex",
+                "repo": "pdfresurrect",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chromefreak",
+              "description": "A Cross-Platform Forensic Framework for Google Chrome.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18844341,
+                "language": "Python",
+                "last_commit": "2015-03-15T13:22:39Z",
+                "owner": "OsandaMalith",
+                "repo": "ChromeFreak",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SkypeFreak",
+              "description": "A Cross Platform Forensic Framework for Skype.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17533620,
+                "language": "Python",
+                "last_commit": "2017-05-21T04:29:10Z",
+                "owner": "OsandaMalith",
+                "repo": "SkypeFreak",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IOSforensic",
+              "description": "iOS forensic tool.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 19979429,
+                "language": "Python",
+                "last_commit": "2014-06-10T14:53:00Z",
+                "owner": "Flo354",
+                "repo": "iOSForensic",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ReplayProxy",
+              "description": "Forensic tool to replay web-based attacks (and also general HTTP traffic) that were captured in a pcap file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32655580,
+                "language": "Python",
+                "last_commit": "2022-01-19T16:17:53Z",
+                "owner": "sparrowt",
+                "repo": "replayproxy",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Iphoneanalyzer",
+              "description": "Allows you to forensically examine or recover date from in iOS device.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43613060,
+                "language": null,
+                "last_commit": "2015-10-03T20:09:09Z",
+                "owner": "foreni-packages",
+                "repo": "iphoneanalyzer",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pev",
+              "description": "Command line based tool for PE32/PE32+ file analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630670746,
+                "language": null,
+                "last_commit": "2023-04-20T22:26:17Z",
+                "owner": "merces",
+                "repo": "pev",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Analysis / Gathering tool (Know your ennemies)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Exiftool",
+              "description": "Reader and rewriter of EXIF informations that supports raw files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80358070,
+                "language": "Python",
+                "last_commit": "2026-08-04T04:50:06Z",
+                "owner": "qazbnm456",
+                "repo": "awesome-web-security",
+                "stars": 13698
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Exiv2",
+              "description": "Exif, Iptc and XMP metadata manipulation library and tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89623031,
+                "language": "C++",
+                "last_commit": "2026-08-19T10:51:52Z",
+                "owner": "Exiv2",
+                "repo": "exiv2",
+                "stars": 1156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scalpel",
+              "description": "An open source data carving tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11002722,
+                "language": "Shell",
+                "last_commit": "2024-03-27T20:39:48Z",
+                "owner": "sleuthkit",
+                "repo": "scalpel",
+                "stars": 686
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nTimetools",
+              "description": "Timestomper and Timestamp checker with nanosecond accuracy for NTFS volumes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167610832,
+                "language": "C",
+                "last_commit": "2021-09-14T14:51:23Z",
+                "owner": "limbenjamin",
+                "repo": "nTimetools",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SetMace",
+              "description": "Manipulate timestamps on NTFS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16999757,
+                "language": "AutoIt",
+                "last_commit": "2014-11-10T18:13:46Z",
+                "owner": "jschicht",
+                "repo": "SetMace",
+                "stars": 53
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data tampering"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Saruman",
+              "description": "ELF anti-forensics exec, for injecting full dynamic executables into process image (With thread injection).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25990962,
+                "language": "C",
+                "last_commit": "2018-03-14T22:44:38Z",
+                "owner": "elfmaster",
+                "repo": "saruman",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kaiser",
+              "description": "File-less persistence, attacks and anti-forensic capabilities (Windows 7 32-bit).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150523464,
+                "language": "C",
+                "last_commit": "2018-12-06T08:36:07Z",
+                "owner": "NtRaiseHardError",
+                "repo": "Kaiser",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Harness",
+              "description": "Execute ELFs in memory.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198096236,
+                "language": "C",
+                "last_commit": "2019-07-21T19:23:52Z",
+                "owner": "droberson",
+                "repo": "harness",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Papa Shango",
+              "description": "Inject code into running processes with ptrace().",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205425395,
+                "language": "C",
+                "last_commit": "2019-08-30T17:11:52Z",
+                "owner": "droberson",
+                "repo": "papa-shango",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hiding process"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BleachBit",
+              "description": "System cleaner for Windows and Linux.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17578592,
+                "language": "Python",
+                "last_commit": "2026-08-19T04:51:31Z",
+                "owner": "bleachbit",
+                "repo": "bleachbit",
+                "stars": 6616
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meterpreter > clearev",
+              "description": "The meterpreter clearev command will clear the Application, System, and Security logs on a Windows system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18418533,
+                "language": "C",
+                "last_commit": "2026-08-17T10:22:34Z",
+                "owner": "rapid7",
+                "repo": "metasploit-payloads",
+                "stars": 2048
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NTFS-3G",
+              "description": "NTFS-3G Safe Read/Write NTFS Driver.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343714504,
+                "language": "C",
+                "last_commit": "2026-07-15T17:55:32Z",
+                "owner": "tuxera",
+                "repo": "ntfs-3g",
+                "stars": 1470
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Forensia",
+              "description": "Anti Forensics Tool For Red Teamers, Used For Erasing Footprints In The Post Exploitation Phase.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575452175,
+                "language": "C++",
+                "last_commit": "2023-06-23T23:23:22Z",
+                "owner": "PaulNorman01",
+                "repo": "Forensia",
+                "stars": 786
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Silk-guardian",
+              "description": "An anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35171500,
+                "language": "C",
+                "last_commit": "2024-02-05T22:58:34Z",
+                "owner": "NateBrune",
+                "repo": "silk-guardian",
+                "stars": 723
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "delete-self-poc",
+              "description": "A way to delete a locked file, or current running executable, on disk.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 331126796,
+                "language": "C",
+                "last_commit": "2025-11-05T00:00:05Z",
+                "owner": "LloydLabs",
+                "repo": "delete-self-poc",
+                "stars": 621
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wipedicks",
+              "description": "Wipe files and drives securely with randoms ASCII dicks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38847482,
+                "language": "Python",
+                "last_commit": "2019-11-25T07:01:25Z",
+                "owner": "Drewsif",
+                "repo": "wipedicks",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wiper",
+              "description": "Toolkit to perform secure destruction of sensitive virtual data, temporary files and swap memories.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273794227,
+                "language": "Python",
+                "last_commit": "2023-01-16T20:34:52Z",
+                "owner": "r3nt0n",
+                "repo": "wiper",
+                "stars": 78
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nuke My LUKS",
+              "description": "Network panic button designed to overwrite with random data the LUKS header of computers in a LAN.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66269908,
+                "language": "Python",
+                "last_commit": "2016-08-31T13:42:17Z",
+                "owner": "juliocesarfort",
+                "repo": "nukemyluks",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wipe",
+              "description": "A Unix tool for secure deletion.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115003,
+                "language": "C",
+                "last_commit": "2022-12-23T16:55:04Z",
+                "owner": "berke",
+                "repo": "wipe",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Permanent-Eraser",
+              "description": "Secure file erasing utility for macOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25923620,
+                "language": "C",
+                "last_commit": "2021-09-11T18:08:04Z",
+                "owner": "edenwaith",
+                "repo": "Permanent-Eraser",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cleaner / Data Destruction / Wiping / FileSystem"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lazagne",
+              "description": "An open source application used to retrieve lots of passwords stored on a local computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30870954,
+                "language": "Python",
+                "last_commit": "2025-09-18T08:01:27Z",
+                "owner": "AlessandroZ",
+                "repo": "LaZagne",
+                "stars": 10953
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mimipenguin",
+              "description": "A tool to dump the login password from the current linux user.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86508681,
+                "language": "C",
+                "last_commit": "2025-09-05T16:43:43Z",
+                "owner": "huntergregal",
+                "repo": "mimipenguin",
+                "stars": 4153
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Password and Login"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "panic_bcast",
+              "description": "Decentralized opsec panic button operating over UDP broadcasts and HTTP. Provides automatic ejection of encrypted drives as a safe-measure against cold-boot attacks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7149414,
+                "language": "Python",
+                "last_commit": "2021-11-10T11:39:24Z",
+                "owner": "niklasfemerstrand",
+                "repo": "panic_bcast",
+                "stars": 225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Midgetpack",
+              "description": "Midgetpack is a multiplatform secure ELF packer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22230619,
+                "language": "C",
+                "last_commit": "2014-07-29T08:41:20Z",
+                "owner": "arisada",
+                "repo": "midgetpack",
+                "stars": 210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ELFcrypt",
+              "description": "ELF crypter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95156257,
+                "language": "C",
+                "last_commit": "2020-09-10T00:26:54Z",
+                "owner": "droberson",
+                "repo": "ELFcrypt",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sherlocked",
+              "description": "Universal script packer-- transforms any type of script into a protected ELF executable, encrypted with anti-debugging.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "suicideCrypt",
+                  "description": "A toolset for creating cryptographically strong volumes that destroy themselves upon tampering (event) or via issued command.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 104736317,
+                    "language": "Perl",
+                    "last_commit": "2017-12-03T12:07:55Z",
+                    "owner": "MonolithInd",
+                    "repo": "suicideCrypt",
+                    "stars": 13
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 25991578,
+                "language": "Objective-C",
+                "last_commit": "2014-10-30T22:03:18Z",
+                "owner": "elfmaster",
+                "repo": "sherlocked",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BurnEye",
+              "description": "ELF encryption program.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4295686,
+                "language": "C",
+                "last_commit": "2012-05-11T13:15:15Z",
+                "owner": "packz",
+                "repo": "binary-encryption",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tchunt-ng",
+              "description": "Reveal encrypted files stored on a filesystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71215696,
+                "language": "C",
+                "last_commit": "2018-11-09T18:01:15Z",
+                "owner": "antagon",
+                "repo": "TCHunt-ng",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TrueHunter",
+              "description": "Detect TrueCrypt containers using a fast and memory efficient approach.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88866938,
+                "language": "Python",
+                "last_commit": "2021-05-15T19:48:56Z",
+                "owner": "adoreste",
+                "repo": "truehunter",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Encryption / Obfuscation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "python-evtx",
+              "description": "A tool to parse the Windows XML Event Log (EVTX) format.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7301482,
+                "language": "Python",
+                "last_commit": "2026-03-19T17:20:16Z",
+                "owner": "williballenthin",
+                "repo": "python-evtx",
+                "stars": 777
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lfle",
+              "description": "Recover event log entries from an image by heurisitically looking for record structures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5708301,
+                "language": "Python",
+                "last_commit": "2015-10-09T17:31:14Z",
+                "owner": "williballenthin",
+                "repo": "LfLe",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "evtkit",
+              "description": "Fix acquired .evt - Windows Event Log files (Forensics) [windows]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54509424,
+                "language": "Python",
+                "last_commit": "2016-03-29T20:09:29Z",
+                "owner": "yarox24",
+                "repo": "evtkit",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Grokevt",
+              "description": "A collection of scripts built for reading Windows® NT/2K/XP/2K eventlog files. [windows]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36998856,
+                "language": "Python",
+                "last_commit": "2024-07-12T10:18:33Z",
+                "owner": "ecbftw",
+                "repo": "grokevt",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Policies / Logging (Event) / Monitoring"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "StegCloak",
+              "description": "Hide secrets with invisible characters in plain text securely using passwords.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259692009,
+                "language": "JavaScript",
+                "last_commit": "2024-10-01T20:19:13Z",
+                "owner": "KuroLabs",
+                "repo": "stegcloak",
+                "stars": 3864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stego-toolkit",
+              "description": "This project is a Docker image useful for solving Steganography challenges as those you can find at CTF platforms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107271029,
+                "language": "Shell",
+                "last_commit": "2022-11-27T14:31:20Z",
+                "owner": "DominicBreuker",
+                "repo": "stego-toolkit",
+                "stars": 2684
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tweetable-polyglot-png",
+              "description": "Pack up to 3MB of data into a tweetable PNG polyglot file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 348501512,
+                "language": "Python",
+                "last_commit": "2021-08-11T02:47:58Z",
+                "owner": "DavidBuchanan314",
+                "repo": "tweetable-polyglot-png",
+                "stars": 2606
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cloakify",
+              "description": "Transforms any filetype into a list of harmless-looking strings. This lets you hide the file in plain sight, and transfer the file without triggering alerts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58249831,
+                "language": "Python",
+                "last_commit": "2020-11-24T05:25:04Z",
+                "owner": "TryCatchHCF",
+                "repo": "Cloakify",
+                "stars": 1680
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stegify",
+              "description": "Go tool for LSB steganography, capable of hiding any file within an image.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159698099,
+                "language": "Go",
+                "last_commit": "2023-04-11T06:07:37Z",
+                "owner": "DimitarPetrov",
+                "repo": "stegify",
+                "stars": 1267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steganography",
+              "description": "Simple C++ Image Steganography tool to encrypt and hide files insde images using Least-Significant-Bit encoding.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 553771946,
+                "language": "C++",
+                "last_commit": "2024-05-10T00:47:21Z",
+                "owner": "7thSamurai",
+                "repo": "steganography",
+                "stars": 1083
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StegaStamp",
+              "description": "Invisible Hyperlinks in Physical Photographs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 180217102,
+                "language": "Python",
+                "last_commit": "2023-12-08T01:32:09Z",
+                "owner": "tancik",
+                "repo": "StegaStamp",
+                "stars": 876
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Steganography",
+              "description": "Least Significant Bit Steganography for bitmap images (.bmp and .png), WAV sound files, and byte sequences.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43174818,
+                "language": "Python",
+                "last_commit": "2025-10-10T18:59:01Z",
+                "owner": "ragibson",
+                "repo": "Steganography",
+                "stars": 660
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PacketWhisper",
+              "description": "Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143650126,
+                "language": "Python",
+                "last_commit": "2021-06-03T21:58:45Z",
+                "owner": "TryCatchHCF",
+                "repo": "PacketWhisper",
+                "stars": 653
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jsteg",
+              "description": "jsteg is a package for hiding data inside jpeg files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102983532,
+                "language": "Go",
+                "last_commit": "2023-05-11T03:28:48Z",
+                "owner": "lukechampine",
+                "repo": "jsteg",
+                "stars": 645
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stegdetect",
+              "description": "Automated tool for detecting steganographic content in images.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 9317679,
+                "language": "C",
+                "last_commit": "2018-10-31T08:44:08Z",
+                "owner": "abeluck",
+                "repo": "stegdetect",
+                "stars": 427
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StegoVeritas",
+              "description": "Yet another Stego Tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40457073,
+                "language": "Python",
+                "last_commit": "2026-04-10T03:46:22Z",
+                "owner": "bannsec",
+                "repo": "stegoVeritas",
+                "stars": 411
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "steg86",
+              "description": "Format-agnostic steganographic tool for x86 and AMD64 binaries. You can use it to hide information in compiled programs, regardless of executable format (PE, ELF, Mach-O, raw, &c).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287818201,
+                "language": "Rust",
+                "last_commit": "2026-08-10T19:32:38Z",
+                "owner": "woodruffw",
+                "repo": "steg86",
+                "stars": 324
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AudioStego",
+              "description": "Hides text or files inside audio files and retrieve them automatically.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26753034,
+                "language": "C++",
+                "last_commit": "2023-05-26T06:29:42Z",
+                "owner": "danielcardeenas",
+                "repo": "AudioStego",
+                "stars": 299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stego",
+              "description": "stego is a steganographic swiss army knife.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "StegoGAN",
+                  "description": "A tool for creating steganographic images using adversarial training.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147863828,
+                    "language": "Python",
+                    "last_commit": "2023-03-23T03:34:08Z",
+                    "owner": "DAI-Lab",
+                    "repo": "SteganoGAN",
+                    "stars": 392
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 189920394,
+                "language": "Rust",
+                "last_commit": "2022-06-06T21:32:15Z",
+                "owner": "ajmwagar",
+                "repo": "stego",
+                "stars": 274
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChessSteg",
+              "description": "Steganography in chess games.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152005526,
+                "language": "JavaScript",
+                "last_commit": "2021-08-22T15:35:18Z",
+                "owner": "jes",
+                "repo": "chess-steg",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StegFS",
+              "description": "A FUSE based steganographic file system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2836016,
+                "language": "C",
+                "last_commit": "2026-03-02T14:48:20Z",
+                "owner": "albinoloverats",
+                "repo": "stegfs",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mp3nema",
+              "description": "A tool aimed at analyzing and capturing data that is hidden between frames in an MP3 file or stream, otherwise noted as \"out of band\" data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11094578,
+                "language": "C",
+                "last_commit": "2013-07-01T12:56:08Z",
+                "owner": "enferex",
+                "repo": "mp3nema",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Steganography"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MalwareDetect",
+              "description": "Submits a file's SHA1 sum to VirusTotal to determine whether it is a known piece of malware.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12685470,
+                "language": "Shell",
+                "last_commit": "2026-05-24T19:55:24Z",
+                "owner": "rfxn",
+                "repo": "linux-malware-detect",
+                "stars": 1487
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Malheur",
+              "description": "A tool for the automatic analyze of malware behavior.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193824,
+                "language": "C",
+                "last_commit": "2019-05-08T19:49:27Z",
+                "owner": "rieck",
+                "repo": "malheur",
+                "stars": 375
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Malware / AV"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "USB Kill",
+              "description": "Anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30810457,
+                "language": "Python",
+                "last_commit": "2024-03-01T03:31:20Z",
+                "owner": "hephaest0s",
+                "repo": "usbkill",
+                "stars": 4620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Day Tripper",
+              "description": "Hide-My-Windows Laser Tripwire.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144575169,
+                "language": "C",
+                "last_commit": "2026-01-04T02:06:40Z",
+                "owner": "dekuNukem",
+                "repo": "daytripper",
+                "stars": 4038
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Silk Guardian",
+              "description": "Anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35171500,
+                "language": "C",
+                "last_commit": "2024-02-05T22:58:34Z",
+                "owner": "NateBrune",
+                "repo": "silk-guardian",
+                "stars": 723
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DoNotDisturb",
+              "description": "Security tool for macOS that aims to detect unauthorized physical access to your laptop.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119749154,
+                "language": "Objective-C",
+                "last_commit": "2026-06-01T06:28:36Z",
+                "owner": "objective-see",
+                "repo": "DoNotDisturb",
+                "stars": 329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BusKill",
+              "description": "BusKill is an hardware and software project that uses a hardware tripwire/dead-man-switch to trigger a computer to lock or shutdown if the user is physically separated from their machine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274360069,
+                "language": "Python",
+                "last_commit": "2026-07-19T21:05:44Z",
+                "owner": "BusKill",
+                "repo": "buskill-app",
+                "stars": 308
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "USB Death",
+              "description": "Anti-forensic tool that writes udev rules for known usb devices and do some things at unknown usb insertion or specific usb device removal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66457692,
+                "language": "Shell",
+                "last_commit": "2017-06-12T12:42:15Z",
+                "owner": "trpt",
+                "repo": "usbdeath",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xxUSBSentinel",
+              "description": "Windows anti-forensics USB monitoring tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145916008,
+                "language": "Rust",
+                "last_commit": "2026-08-03T02:18:42Z",
+                "owner": "thereisnotime",
+                "repo": "xxUSBSentinel",
+                "stars": 71
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hardware"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lockup",
+              "description": "A proof-of-concept Android application to detect and defeat some of the Cellebrite UFED forensic toolkit extraction techniques.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365829520,
+                "language": "Java",
+                "last_commit": "2024-06-22T18:34:44Z",
+                "owner": "levlesec",
+                "repo": "lockup",
+                "stars": 351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ripple",
+              "description": "A \"panic button\" app for triggering a \"ripple effect\" across apps that are set up to respond to panic events.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45115039,
+                "language": "Java",
+                "last_commit": "2026-04-17T09:36:37Z",
+                "owner": "guardianproject",
+                "repo": "ripple",
+                "stars": 292
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Android App"
+        }
+      ],
       "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Frida",
-          "description": "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Fridump",
-              "description": "A universal memory dumper using Frida.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2024-08-07T13:03:21Z",
-                "owner": "Nightbringer21",
-                "repo": "fridump",
-                "stars": 856
-              }
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "language": "Meson",
-            "last_commit": "2026-08-18T13:32:43Z",
-            "owner": "frida",
-            "repo": "frida",
-            "stars": 21665
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dmg2img",
-          "description": "A CLI tool to uncompress Apple's compressed DMG files to the HFS+ IMG format.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-12-27T18:29:17Z",
-            "owner": "Lekensteyn",
-            "repo": "dmg2img",
-            "stars": 271
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bmap-tools",
-          "description": "Tool for copying largely sparse files using information from a block map file.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-10-16T20:37:45Z",
-            "owner": "intel",
-            "repo": "bmap-tools",
-            "stars": 240
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Imagemounter",
-          "description": "Command line utility and Python package to ease the (un)mounting of forensic disk images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-09T15:49:13Z",
-            "owner": "ralphje",
-            "repo": "imagemounter",
-            "stars": 127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Afflib",
-          "description": "An extensible open format for the storage of disk images and related forensic.information.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-05-15T22:38:12Z",
-            "owner": "sshock",
-            "repo": "AFFLIBv3",
-            "stars": 94
-          }
-        }
-      ],
-      "title": "System/Digital Image"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TestDisk & PhotoRec",
-          "description": "TestDisk checks the partition and boot sectors of your disks. It is very useful in recovering lost partitions. PhotoRec is file data recovery software designed to recover lost pictures from digital camera memory or even hard disks. It has been extended to search also for non audio/video headers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-25T15:34:01Z",
-            "owner": "cgsecurity",
-            "repo": "testdisk",
-            "stars": 2530
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mxtract",
-          "description": "Memory Extractor & Analyzer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-11-09T16:52:10Z",
-            "owner": "rek7",
-            "repo": "mXtract",
-            "stars": 587
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Foremost",
-          "description": "A console program to recover files based on their headers, footers, and internal data structures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-05-26T08:26:00Z",
-            "owner": "korczis",
-            "repo": "foremost",
-            "stars": 373
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Recoverjpeg",
-          "description": "Recover jpegs from damaged devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-01-29T07:34:31Z",
-            "owner": "samueltardieu",
-            "repo": "recoverjpeg",
-            "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MemFetch",
-          "description": "Simple utility that can be used to dump process memory of any userspace process running on the system without affecting its execution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-02-08T09:38:14Z",
-            "owner": "citypw",
-            "repo": "lcamtuf-memfetch",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MemDump",
-          "description": "Dumps system memory to stdout, skipping over holes in memory maps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-03-13T09:19:31Z",
-            "owner": "kost",
-            "repo": "memdump",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Scrounge-Ntfs",
-          "description": "Data recovery program for NTFS file systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2017-02-16T20:17:13Z",
-            "owner": "lcorbasson",
-            "repo": "scrounge-ntfs",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MagicRescue",
-          "description": "Find and recover deleted files on block devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-09-12T16:00:40Z",
-            "owner": "jbj",
-            "repo": "magicrescue",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Recovering tool / Memory Extraction"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Volatility",
-          "description": "Advanced memory forensics framework.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-05-16T13:40:55Z",
-            "owner": "volatilityfoundation",
-            "repo": "volatility",
-            "stars": 8059
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Autopsy",
-          "description": "The forensic browser. A GUI for the Sleuth Kit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-06-20T05:43:47Z",
-            "owner": "sleuthkit",
-            "repo": "autopsy",
-            "stars": 3289
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sleuthkit",
-          "description": "A library and collection of command line digital forensics tools that allow you to investigate volume and file system data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T18:51:04Z",
-            "owner": "sleuthkit",
-            "repo": "sleuthkit",
-            "stars": 3129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Emldump",
-          "description": "Analyze MIME files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-30T13:37:13Z",
-            "owner": "DidierStevens",
-            "repo": "DidierStevensSuite",
-            "stars": 2520
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pdfid",
-          "description": "Scan a file to look for certain PDF keywords.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-30T13:37:13Z",
-            "owner": "DidierStevens",
-            "repo": "DidierStevensSuite",
-            "stars": 2520
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rekall",
-          "description": "Memory Forensic Framework.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2020-10-18T04:33:58Z",
-            "owner": "google",
-            "repo": "rekall",
-            "stars": 2007
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PcapXray",
-          "description": "Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-01T07:33:19Z",
-            "owner": "srixivas",
-            "repo": "PcapXray",
-            "stars": 1876
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Peepdf",
-          "description": "A Python tool to explore PDF files in order to find out if the file can be harmful or not.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-19T14:03:04Z",
-            "owner": "jesparza",
-            "repo": "peepdf",
-            "stars": 1461
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bulk-extractor",
-          "description": "Bulk Email and URL extraction tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T02:21:24Z",
-            "owner": "simsong",
-            "repo": "bulk_extractor",
-            "stars": 1407
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "captipper",
-          "description": "Malicious HTTP traffic explorer tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-16T02:20:12Z",
-            "owner": "omriher",
-            "repo": "CapTipper",
-            "stars": 725
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Recuperabit",
-          "description": "A tool for forensic file system reconstruction.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-26T20:05:07Z",
-            "owner": "Lazza",
-            "repo": "RecuperaBit",
-            "stars": 622
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swap-digger",
-          "description": "A tool used to automate Linux swap analysis during post-exploitation or forensics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-06-26T13:33:55Z",
-            "owner": "sevagas",
-            "repo": "swap_digger",
-            "stars": 536
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ntdsxtract",
-          "description": "[windows]: Active Directory forensic framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-03-24T01:07:18Z",
-            "owner": "csababarta",
-            "repo": "ntdsxtract",
-            "stars": 335
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Indxparse",
-          "description": "A Tool suite for inspecting NTFS artifacts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-11-01T10:59:54Z",
-            "owner": "williballenthin",
-            "repo": "INDXParse",
-            "stars": 227
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Xplico",
-          "description": "Internet Traffic Decoder. Network Forensic Analysis Tool (NFAT).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2020-08-28T15:46:24Z",
-            "owner": "xplico",
-            "repo": "xplico",
-            "stars": 204
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volafox",
-          "description": "macOS Memory Analysis Toolkit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-07-25T00:39:38Z",
-            "owner": "n0fate",
-            "repo": "volafox",
-            "stars": 175
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LiMEaide",
-          "description": "Remotely dump RAM of a Linux client and create a volatility profile for later analysis on your local host.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-08-26T14:34:27Z",
-            "owner": "kd8bny",
-            "repo": "LiMEaide",
-            "stars": 157
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rifiuti2",
-          "description": "A rewrite of rifiuti, a great tool from Foundstone folks for analyzing Windows Recycle Bin INFO2 file.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-11-11T05:20:25Z",
-            "owner": "abelcheung",
-            "repo": "rifiuti2",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dumpzilla",
-          "description": "A forensic tool for firefox.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-09T15:28:51Z",
-            "owner": "Busindre",
-            "repo": "dumpzilla",
-            "stars": 148
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IPBA2",
-          "description": "IOS Backup Analyzer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2014-05-05T08:18:27Z",
-            "owner": "PicciMario",
-            "repo": "iPhone-Backup-Analyzer-2",
-            "stars": 107
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PdfResurrect",
-          "description": "A tool aimed at analyzing PDF documents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-09-10T17:21:03Z",
-            "owner": "enferex",
-            "repo": "pdfresurrect",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chromefreak",
-          "description": "A Cross-Platform Forensic Framework for Google Chrome.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2015-03-15T13:22:39Z",
-            "owner": "OsandaMalith",
-            "repo": "ChromeFreak",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SkypeFreak",
-          "description": "A Cross Platform Forensic Framework for Skype.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-05-21T04:29:10Z",
-            "owner": "OsandaMalith",
-            "repo": "SkypeFreak",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IOSforensic",
-          "description": "iOS forensic tool.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2014-06-10T14:53:00Z",
-            "owner": "Flo354",
-            "repo": "iOSForensic",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ReplayProxy",
-          "description": "Forensic tool to replay web-based attacks (and also general HTTP traffic) that were captured in a pcap file.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-01-19T16:17:53Z",
-            "owner": "sparrowt",
-            "repo": "replayproxy",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Iphoneanalyzer",
-          "description": "Allows you to forensically examine or recover date from in iOS device.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2015-10-03T20:09:09Z",
-            "owner": "foreni-packages",
-            "repo": "iphoneanalyzer",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pev",
-          "description": "Command line based tool for PE32/PE32+ file analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-04-20T22:26:17Z",
-            "owner": "merces",
-            "repo": "pev",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nfex",
-          "description": "A tool for extracting files from the network in real-time or post-capture from an offline tcpdump pcap savefile.",
-          "children": []
-        }
-      ],
-      "title": "Analysis / Gathering tool (Know your ennemies)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Exiftool",
-          "description": "Reader and rewriter of EXIF informations that supports raw files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-04T04:50:06Z",
-            "owner": "qazbnm456",
-            "repo": "awesome-web-security",
-            "stars": 13691
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Exiv2",
-          "description": "Exif, Iptc and XMP metadata manipulation library and tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T11:23:45Z",
-            "owner": "Exiv2",
-            "repo": "exiv2",
-            "stars": 1155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Scalpel",
-          "description": "An open source data carving tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-03-27T20:39:48Z",
-            "owner": "sleuthkit",
-            "repo": "scalpel",
-            "stars": 686
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nTimetools",
-          "description": "Timestomper and Timestamp checker with nanosecond accuracy for NTFS volumes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-09-14T14:51:23Z",
-            "owner": "limbenjamin",
-            "repo": "nTimetools",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SetMace",
-          "description": "Manipulate timestamps on NTFS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "AutoIt",
-            "last_commit": "2014-11-10T18:13:46Z",
-            "owner": "jschicht",
-            "repo": "SetMace",
-            "stars": 53
-          }
-        }
-      ],
-      "title": "Data tampering"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Saruman",
-          "description": "ELF anti-forensics exec, for injecting full dynamic executables into process image (With thread injection).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-03-14T22:44:38Z",
-            "owner": "elfmaster",
-            "repo": "saruman",
-            "stars": 140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kaiser",
-          "description": "File-less persistence, attacks and anti-forensic capabilities (Windows 7 32-bit).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-12-06T08:36:07Z",
-            "owner": "NtRaiseHardError",
-            "repo": "Kaiser",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Harness",
-          "description": "Execute ELFs in memory.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2019-07-21T19:23:52Z",
-            "owner": "droberson",
-            "repo": "harness",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Papa Shango",
-          "description": "Inject code into running processes with ptrace().",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2019-08-30T17:11:52Z",
-            "owner": "droberson",
-            "repo": "papa-shango",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Hiding process"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BleachBit",
-          "description": "System cleaner for Windows and Linux.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T02:09:11Z",
-            "owner": "bleachbit",
-            "repo": "bleachbit",
-            "stars": 6611
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Meterpreter > clearev",
-          "description": "The meterpreter clearev command will clear the Application, System, and Security logs on a Windows system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T10:22:34Z",
-            "owner": "rapid7",
-            "repo": "metasploit-payloads",
-            "stars": 2047
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NTFS-3G",
-          "description": "NTFS-3G Safe Read/Write NTFS Driver.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-15T17:55:32Z",
-            "owner": "tuxera",
-            "repo": "ntfs-3g",
-            "stars": 1469
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Forensia",
-          "description": "Anti Forensics Tool For Red Teamers, Used For Erasing Footprints In The Post Exploitation Phase.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-06-23T23:23:22Z",
-            "owner": "PaulNorman01",
-            "repo": "Forensia",
-            "stars": 786
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Silk-guardian",
-          "description": "An anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-02-05T22:58:34Z",
-            "owner": "NateBrune",
-            "repo": "silk-guardian",
-            "stars": 723
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "delete-self-poc",
-          "description": "A way to delete a locked file, or current running executable, on disk.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-11-05T00:00:05Z",
-            "owner": "LloydLabs",
-            "repo": "delete-self-poc",
-            "stars": 621
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wipedicks",
-          "description": "Wipe files and drives securely with randoms ASCII dicks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-11-25T07:01:25Z",
-            "owner": "Drewsif",
-            "repo": "wipedicks",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wiper",
-          "description": "Toolkit to perform secure destruction of sensitive virtual data, temporary files and swap memories.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-16T20:34:52Z",
-            "owner": "r3nt0n",
-            "repo": "wiper",
-            "stars": 78
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nuke My LUKS",
-          "description": "Network panic button designed to overwrite with random data the LUKS header of computers in a LAN.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-08-31T13:42:17Z",
-            "owner": "juliocesarfort",
-            "repo": "nukemyluks",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wipe",
-          "description": "A Unix tool for secure deletion.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-12-23T16:55:04Z",
-            "owner": "berke",
-            "repo": "wipe",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Permanent-Eraser",
-          "description": "Secure file erasing utility for macOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-09-11T18:08:04Z",
-            "owner": "edenwaith",
-            "repo": "Permanent-Eraser",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChainSaw",
-          "description": "ChainSaw automates the process of shredding log files and bash history from a system. It is a tool that cleans up the bloody mess you left behind when you went for a stroll behind enemy lines.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "LogKiller",
-          "description": "Clear all your logs in linux/windows servers.",
-          "children": []
-        }
-      ],
-      "title": "Cleaner / Data Destruction / Wiping / FileSystem"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lazagne",
-          "description": "An open source application used to retrieve lots of passwords stored on a local computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-18T08:01:27Z",
-            "owner": "AlessandroZ",
-            "repo": "LaZagne",
-            "stars": 10954
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mimipenguin",
-          "description": "A tool to dump the login password from the current linux user.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-09-05T16:43:43Z",
-            "owner": "huntergregal",
-            "repo": "mimipenguin",
-            "stars": 4153
-          }
-        }
-      ],
-      "title": "Password and Login"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "panic_bcast",
-          "description": "Decentralized opsec panic button operating over UDP broadcasts and HTTP. Provides automatic ejection of encrypted drives as a safe-measure against cold-boot attacks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-11-10T11:39:24Z",
-            "owner": "niklasfemerstrand",
-            "repo": "panic_bcast",
-            "stars": 225
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Midgetpack",
-          "description": "Midgetpack is a multiplatform secure ELF packer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2014-07-29T08:41:20Z",
-            "owner": "arisada",
-            "repo": "midgetpack",
-            "stars": 210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ELFcrypt",
-          "description": "ELF crypter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-09-10T00:26:54Z",
-            "owner": "droberson",
-            "repo": "ELFcrypt",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sherlocked",
-          "description": "Universal script packer-- transforms any type of script into a protected ELF executable, encrypted with anti-debugging.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "suicideCrypt",
-              "description": "A toolset for creating cryptographically strong volumes that destroy themselves upon tampering (event) or via issued command.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Perl",
-                "last_commit": "2017-12-03T12:07:55Z",
-                "owner": "MonolithInd",
-                "repo": "suicideCrypt",
-                "stars": 13
-              }
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2014-10-30T22:03:18Z",
-            "owner": "elfmaster",
-            "repo": "sherlocked",
-            "stars": 105
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BurnEye",
-          "description": "ELF encryption program.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2012-05-11T13:15:15Z",
-            "owner": "packz",
-            "repo": "binary-encryption",
-            "stars": 71
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tchunt-ng",
-          "description": "Reveal encrypted files stored on a filesystem.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2018-11-09T18:01:15Z",
-            "owner": "antagon",
-            "repo": "TCHunt-ng",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TrueHunter",
-          "description": "Detect TrueCrypt containers using a fast and memory efficient approach.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-05-15T19:48:56Z",
-            "owner": "adoreste",
-            "repo": "truehunter",
-            "stars": 31
-          }
-        }
-      ],
-      "title": "Encryption / Obfuscation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "python-evtx",
-          "description": "A tool to parse the Windows XML Event Log (EVTX) format.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-19T17:20:16Z",
-            "owner": "williballenthin",
-            "repo": "python-evtx",
-            "stars": 777
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lfle",
-          "description": "Recover event log entries from an image by heurisitically looking for record structures.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2015-10-09T17:31:14Z",
-            "owner": "williballenthin",
-            "repo": "LfLe",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "evtkit",
-          "description": "Fix acquired .evt - Windows Event Log files (Forensics) [windows]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-03-29T20:09:29Z",
-            "owner": "yarox24",
-            "repo": "evtkit",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Grokevt",
-          "description": "A collection of scripts built for reading Windows® NT/2K/XP/2K eventlog files. [windows]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-12T10:18:33Z",
-            "owner": "ecbftw",
-            "repo": "grokevt",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Policies / Logging (Event) / Monitoring"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "StegCloak",
-          "description": "Hide secrets with invisible characters in plain text securely using passwords.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-01T20:19:13Z",
-            "owner": "KuroLabs",
-            "repo": "stegcloak",
-            "stars": 3864
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stego-toolkit",
-          "description": "This project is a Docker image useful for solving Steganography challenges as those you can find at CTF platforms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-11-27T14:31:20Z",
-            "owner": "DominicBreuker",
-            "repo": "stego-toolkit",
-            "stars": 2684
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tweetable-polyglot-png",
-          "description": "Pack up to 3MB of data into a tweetable PNG polyglot file.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-11T02:47:58Z",
-            "owner": "DavidBuchanan314",
-            "repo": "tweetable-polyglot-png",
-            "stars": 2606
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cloakify",
-          "description": "Transforms any filetype into a list of harmless-looking strings. This lets you hide the file in plain sight, and transfer the file without triggering alerts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-11-24T05:25:04Z",
-            "owner": "TryCatchHCF",
-            "repo": "Cloakify",
-            "stars": 1680
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stegify",
-          "description": "Go tool for LSB steganography, capable of hiding any file within an image.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-04-11T06:07:37Z",
-            "owner": "DimitarPetrov",
-            "repo": "stegify",
-            "stars": 1267
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "steganography",
-          "description": "Simple C++ Image Steganography tool to encrypt and hide files insde images using Least-Significant-Bit encoding.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-05-10T00:47:21Z",
-            "owner": "7thSamurai",
-            "repo": "steganography",
-            "stars": 1083
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StegaStamp",
-          "description": "Invisible Hyperlinks in Physical Photographs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-08T01:32:09Z",
-            "owner": "tancik",
-            "repo": "StegaStamp",
-            "stars": 876
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Steganography",
-          "description": "Least Significant Bit Steganography for bitmap images (.bmp and .png), WAV sound files, and byte sequences.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-10T18:59:01Z",
-            "owner": "ragibson",
-            "repo": "Steganography",
-            "stars": 660
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PacketWhisper",
-          "description": "Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-06-03T21:58:45Z",
-            "owner": "TryCatchHCF",
-            "repo": "PacketWhisper",
-            "stars": 653
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jsteg",
-          "description": "jsteg is a package for hiding data inside jpeg files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-05-11T03:28:48Z",
-            "owner": "lukechampine",
-            "repo": "jsteg",
-            "stars": 645
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stegdetect",
-          "description": "Automated tool for detecting steganographic content in images.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2018-10-31T08:44:08Z",
-            "owner": "abeluck",
-            "repo": "stegdetect",
-            "stars": 427
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StegoVeritas",
-          "description": "Yet another Stego Tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-10T03:46:22Z",
-            "owner": "bannsec",
-            "repo": "stegoVeritas",
-            "stars": 411
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "steg86",
-          "description": "Format-agnostic steganographic tool for x86 and AMD64 binaries. You can use it to hide information in compiled programs, regardless of executable format (PE, ELF, Mach-O, raw, &c).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-10T19:32:38Z",
-            "owner": "woodruffw",
-            "repo": "steg86",
-            "stars": 324
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AudioStego",
-          "description": "Hides text or files inside audio files and retrieve them automatically.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-05-26T06:29:42Z",
-            "owner": "danielcardeenas",
-            "repo": "AudioStego",
-            "stars": 299
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stego",
-          "description": "stego is a steganographic swiss army knife.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "StegoGAN",
-              "description": "A tool for creating steganographic images using adversarial training.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2023-03-23T03:34:08Z",
-                "owner": "DAI-Lab",
-                "repo": "SteganoGAN",
-                "stars": 392
-              }
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-06-06T21:32:15Z",
-            "owner": "ajmwagar",
-            "repo": "stego",
-            "stars": 274
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChessSteg",
-          "description": "Steganography in chess games.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-08-22T15:35:18Z",
-            "owner": "jes",
-            "repo": "chess-steg",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StegFS",
-          "description": "A FUSE based steganographic file system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-03-02T14:48:20Z",
-            "owner": "albinoloverats",
-            "repo": "stegfs",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mp3nema",
-          "description": "A tool aimed at analyzing and capturing data that is hidden between frames in an MP3 file or stream, otherwise noted as \"out of band\" data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2013-07-01T12:56:08Z",
-            "owner": "enferex",
-            "repo": "mp3nema",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Steganography"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MalwareDetect",
-          "description": "Submits a file's SHA1 sum to VirusTotal to determine whether it is a known piece of malware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-05-24T19:55:24Z",
-            "owner": "rfxn",
-            "repo": "linux-malware-detect",
-            "stars": 1487
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Malheur",
-          "description": "A tool for the automatic analyze of malware behavior.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2019-05-08T19:49:27Z",
-            "owner": "rieck",
-            "repo": "malheur",
-            "stars": 375
-          }
-        }
-      ],
-      "title": "Malware / AV"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "USB Kill",
-          "description": "Anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-01T03:31:20Z",
-            "owner": "hephaest0s",
-            "repo": "usbkill",
-            "stars": 4619
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Day Tripper",
-          "description": "Hide-My-Windows Laser Tripwire.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-01-04T02:06:40Z",
-            "owner": "dekuNukem",
-            "repo": "daytripper",
-            "stars": 4038
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Silk Guardian",
-          "description": "Anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-02-05T22:58:34Z",
-            "owner": "NateBrune",
-            "repo": "silk-guardian",
-            "stars": 723
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DoNotDisturb",
-          "description": "Security tool for macOS that aims to detect unauthorized physical access to your laptop.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-06-01T06:28:36Z",
-            "owner": "objective-see",
-            "repo": "DoNotDisturb",
-            "stars": 329
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BusKill",
-          "description": "BusKill is an hardware and software project that uses a hardware tripwire/dead-man-switch to trigger a computer to lock or shutdown if the user is physically separated from their machine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-19T21:05:44Z",
-            "owner": "BusKill",
-            "repo": "buskill-app",
-            "stars": 308
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "USB Death",
-          "description": "Anti-forensic tool that writes udev rules for known usb devices and do some things at unknown usb insertion or specific usb device removal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2017-06-12T12:42:15Z",
-            "owner": "trpt",
-            "repo": "usbdeath",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xxUSBSentinel",
-          "description": "Windows anti-forensics USB monitoring tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-03T02:18:42Z",
-            "owner": "thereisnotime",
-            "repo": "xxUSBSentinel",
-            "stars": 71
-          }
-        }
-      ],
-      "title": "Hardware"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Lockup",
-          "description": "A proof-of-concept Android application to detect and defeat some of the Cellebrite UFED forensic toolkit extraction techniques.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-06-22T18:34:44Z",
-            "owner": "levlesec",
-            "repo": "lockup",
-            "stars": 350
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ripple",
-          "description": "A \"panic button\" app for triggering a \"ripple effect\" across apps that are set up to respond to panic events.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-04-17T09:36:37Z",
-            "owner": "guardianproject",
-            "repo": "ripple",
-            "stars": 292
-          }
-        }
-      ],
-      "title": "Android App"
-    },
-    {
-      "description": "Thanks for visiting ! If you have suggestions, then open an issue, or submit a PR. Contributions are welcome, and much appreciated !",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Licensed under Creative Commons, CC BY 4.0, © HUGUET Rémi @shadawck 2022",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:39:08.756Z",
+    "last_updated": "2026-08-19T12:15:23.979Z",
     "original_repository": "shadawck/awesome-anti-forensic",
+    "original_repository_id": 188878037,
     "original_repository_sha": "89656021757d1e628af40458f5c95ae27d6e6868",
     "enhanced_repository": "enhansome/enhansome-anti-forensic",
     "enhanced_repository_description": null,
