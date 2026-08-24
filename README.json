@@ -33,7 +33,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21717
+                "stars": 21723
               }
             },
             {
@@ -654,7 +654,7 @@
                 "last_commit": "2026-08-21T13:51:02Z",
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13726
+                "stars": 13729
               }
             },
             {
@@ -666,7 +666,7 @@
                 "archived": false,
                 "id": 89623031,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:51:48Z",
+                "last_commit": "2026-08-24T18:34:06Z",
                 "owner": "Exiv2",
                 "repo": "exiv2",
                 "stars": 1157
@@ -800,7 +800,7 @@
                 "archived": false,
                 "id": 17578592,
                 "language": "Python",
-                "last_commit": "2026-08-24T05:18:56Z",
+                "last_commit": "2026-08-24T15:51:28Z",
                 "owner": "bleachbit",
                 "repo": "bleachbit",
                 "stars": 6680
@@ -1537,7 +1537,7 @@
                 "last_commit": "2024-07-18T21:46:29Z",
                 "owner": "aforensics",
                 "repo": "HiddenVM",
-                "stars": 2675
+                "stars": 2676
               }
             }
           ],
@@ -1699,7 +1699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:21:52.120Z",
+    "last_updated": "2026-08-24T19:43:21.805Z",
     "original_repository": "shadawck/awesome-anti-forensic",
     "original_repository_id": 188878037,
     "original_repository_sha": "89656021757d1e628af40458f5c95ae27d6e6868",
