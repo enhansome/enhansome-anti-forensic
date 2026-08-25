@@ -33,7 +33,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21729
+                "stars": 21737
               }
             },
             {
@@ -115,7 +115,7 @@
                 "last_commit": "2026-08-19T11:14:25Z",
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2545
+                "stars": 2546
               }
             },
             {
@@ -257,7 +257,7 @@
                 "last_commit": "2026-06-20T05:43:47Z",
                 "owner": "sleuthkit",
                 "repo": "autopsy",
-                "stars": 3294
+                "stars": 3295
               }
             },
             {
@@ -362,7 +362,7 @@
                 "last_commit": "2026-08-18T02:21:24Z",
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1414
+                "stars": 1415
               }
             },
             {
@@ -654,7 +654,7 @@
                 "last_commit": "2026-08-21T13:51:02Z",
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13729
+                "stars": 13728
               }
             },
             {
@@ -669,7 +669,7 @@
                 "last_commit": "2026-08-24T21:15:26Z",
                 "owner": "Exiv2",
                 "repo": "exiv2",
-                "stars": 1156
+                "stars": 1157
               }
             },
             {
@@ -684,7 +684,7 @@
                 "last_commit": "2024-03-27T20:39:48Z",
                 "owner": "sleuthkit",
                 "repo": "scalpel",
-                "stars": 688
+                "stars": 689
               }
             },
             {
@@ -803,7 +803,7 @@
                 "last_commit": "2026-08-24T15:51:28Z",
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 6682
+                "stars": 6696
               }
             },
             {
@@ -815,10 +815,10 @@
                 "archived": false,
                 "id": 18418533,
                 "language": "C",
-                "last_commit": "2026-08-17T10:22:34Z",
+                "last_commit": "2026-08-25T10:41:23Z",
                 "owner": "rapid7",
                 "repo": "metasploit-payloads",
-                "stars": 2048
+                "stars": 2049
               }
             },
             {
@@ -833,7 +833,7 @@
                 "last_commit": "2026-07-15T17:55:32Z",
                 "owner": "tuxera",
                 "repo": "ntfs-3g",
-                "stars": 1477
+                "stars": 1476
               }
             },
             {
@@ -975,7 +975,7 @@
                 "last_commit": "2025-09-18T08:01:27Z",
                 "owner": "AlessandroZ",
                 "repo": "LaZagne",
-                "stars": 10960
+                "stars": 10962
               }
             },
             {
@@ -1207,7 +1207,7 @@
                 "last_commit": "2024-10-01T20:19:13Z",
                 "owner": "KuroLabs",
                 "repo": "stegcloak",
-                "stars": 3868
+                "stars": 3871
               }
             },
             {
@@ -1327,7 +1327,7 @@
                 "last_commit": "2021-06-03T21:58:45Z",
                 "owner": "TryCatchHCF",
                 "repo": "PacketWhisper",
-                "stars": 653
+                "stars": 654
               }
             },
             {
@@ -1500,7 +1500,7 @@
                 "last_commit": "2026-05-24T19:55:24Z",
                 "owner": "rfxn",
                 "repo": "linux-malware-detect",
-                "stars": 1488
+                "stars": 1489
               }
             },
             {
@@ -1537,7 +1537,7 @@
                 "last_commit": "2024-07-18T21:46:29Z",
                 "owner": "aforensics",
                 "repo": "HiddenVM",
-                "stars": 2676
+                "stars": 2677
               }
             }
           ],
@@ -1559,7 +1559,7 @@
                 "last_commit": "2024-03-01T03:31:20Z",
                 "owner": "hephaest0s",
                 "repo": "usbkill",
-                "stars": 4628
+                "stars": 4630
               }
             },
             {
@@ -1574,7 +1574,7 @@
                 "last_commit": "2026-01-04T02:06:40Z",
                 "owner": "dekuNukem",
                 "repo": "daytripper",
-                "stars": 4038
+                "stars": 4039
               }
             },
             {
@@ -1699,7 +1699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:01.614Z",
+    "last_updated": "2026-08-25T19:44:54.061Z",
     "original_repository": "shadawck/awesome-anti-forensic",
     "original_repository_id": 188878037,
     "original_repository_sha": "89656021757d1e628af40458f5c95ae27d6e6868",
