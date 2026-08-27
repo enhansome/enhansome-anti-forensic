@@ -33,7 +33,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21751
+                "stars": 21759
               }
             },
             {
@@ -115,7 +115,7 @@
                 "last_commit": "2026-08-19T11:14:25Z",
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2549
+                "stars": 2550
               }
             },
             {
@@ -332,7 +332,7 @@
                 "last_commit": "2026-05-01T07:33:19Z",
                 "owner": "srixivas",
                 "repo": "PcapXray",
-                "stars": 1874
+                "stars": 1875
               }
             },
             {
@@ -362,7 +362,7 @@
                 "last_commit": "2026-08-18T02:21:24Z",
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1415
+                "stars": 1416
               }
             },
             {
@@ -654,7 +654,7 @@
                 "last_commit": "2026-08-21T13:51:02Z",
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13732
+                "stars": 13731
               }
             },
             {
@@ -666,7 +666,7 @@
                 "archived": false,
                 "id": 89623031,
                 "language": "C++",
-                "last_commit": "2026-08-24T21:15:26Z",
+                "last_commit": "2026-08-27T09:46:53Z",
                 "owner": "Exiv2",
                 "repo": "exiv2",
                 "stars": 1157
@@ -803,7 +803,7 @@
                 "last_commit": "2026-08-26T14:51:46Z",
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 6711
+                "stars": 6719
               }
             },
             {
@@ -818,7 +818,7 @@
                 "last_commit": "2026-08-26T14:43:20Z",
                 "owner": "rapid7",
                 "repo": "metasploit-payloads",
-                "stars": 2049
+                "stars": 2052
               }
             },
             {
@@ -833,7 +833,7 @@
                 "last_commit": "2026-07-15T17:55:32Z",
                 "owner": "tuxera",
                 "repo": "ntfs-3g",
-                "stars": 1477
+                "stars": 1478
               }
             },
             {
@@ -863,7 +863,7 @@
                 "last_commit": "2024-02-05T22:58:34Z",
                 "owner": "NateBrune",
                 "repo": "silk-guardian",
-                "stars": 727
+                "stars": 728
               }
             },
             {
@@ -990,7 +990,7 @@
                 "last_commit": "2025-09-05T16:43:43Z",
                 "owner": "huntergregal",
                 "repo": "mimipenguin",
-                "stars": 4157
+                "stars": 4158
               }
             }
           ],
@@ -1312,7 +1312,7 @@
                 "last_commit": "2025-10-10T18:59:01Z",
                 "owner": "ragibson",
                 "repo": "Steganography",
-                "stars": 661
+                "stars": 660
               }
             },
             {
@@ -1589,7 +1589,7 @@
                 "last_commit": "2024-02-05T22:58:34Z",
                 "owner": "NateBrune",
                 "repo": "silk-guardian",
-                "stars": 727
+                "stars": 728
               }
             },
             {
@@ -1699,9 +1699,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:49:30.844Z",
-    "original_repository": "shadawck/awesome-anti-forensic",
-    "original_repository_id": 188878037,
+    "last_updated": "2026-08-27T11:23:32.501Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 188878037,
+      "language": "HTML",
+      "last_commit": "2023-11-27T11:25:55Z",
+      "owner": "shadawck",
+      "repo": "awesome-anti-forensic",
+      "stars": 1035
+    },
     "original_repository_sha": "89656021757d1e628af40458f5c95ae27d6e6868",
     "enhanced_repository": "enhansome/enhansome-anti-forensic",
     "enhanced_repository_description": null,
