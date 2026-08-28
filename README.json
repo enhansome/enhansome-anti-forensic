@@ -22,7 +22,7 @@
                     "last_commit": "2024-08-07T13:03:21Z",
                     "owner": "Nightbringer21",
                     "repo": "fridump",
-                    "stars": 858
+                    "stars": 859
                   }
                 }
               ],
@@ -30,10 +30,10 @@
                 "archived": false,
                 "id": 9405122,
                 "language": "Meson",
-                "last_commit": "2026-08-18T13:32:43Z",
+                "last_commit": "2026-08-27T16:26:32Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21759
+                "stars": 21767
               }
             },
             {
@@ -115,7 +115,7 @@
                 "last_commit": "2026-08-19T11:14:25Z",
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2550
+                "stars": 2551
               }
             },
             {
@@ -287,7 +287,7 @@
                 "last_commit": "2026-07-30T13:37:13Z",
                 "owner": "DidierStevens",
                 "repo": "DidierStevensSuite",
-                "stars": 2525
+                "stars": 2526
               }
             },
             {
@@ -302,7 +302,7 @@
                 "last_commit": "2026-07-30T13:37:13Z",
                 "owner": "DidierStevens",
                 "repo": "DidierStevensSuite",
-                "stars": 2525
+                "stars": 2526
               }
             },
             {
@@ -317,7 +317,7 @@
                 "last_commit": "2020-10-18T04:33:58Z",
                 "owner": "google",
                 "repo": "rekall",
-                "stars": 2007
+                "stars": 2008
               }
             },
             {
@@ -362,7 +362,7 @@
                 "last_commit": "2026-08-18T02:21:24Z",
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1416
+                "stars": 1417
               }
             },
             {
@@ -437,7 +437,7 @@
                 "last_commit": "2023-11-01T10:59:54Z",
                 "owner": "williballenthin",
                 "repo": "INDXParse",
-                "stars": 227
+                "stars": 228
               }
             },
             {
@@ -654,7 +654,7 @@
                 "last_commit": "2026-08-21T13:51:02Z",
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13731
+                "stars": 13734
               }
             },
             {
@@ -666,7 +666,7 @@
                 "archived": false,
                 "id": 89623031,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:46:53Z",
+                "last_commit": "2026-08-27T22:29:56Z",
                 "owner": "Exiv2",
                 "repo": "exiv2",
                 "stars": 1157
@@ -803,7 +803,7 @@
                 "last_commit": "2026-08-26T14:51:46Z",
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 6719
+                "stars": 6726
               }
             },
             {
@@ -818,7 +818,7 @@
                 "last_commit": "2026-08-26T14:43:20Z",
                 "owner": "rapid7",
                 "repo": "metasploit-payloads",
-                "stars": 2052
+                "stars": 2053
               }
             },
             {
@@ -863,7 +863,7 @@
                 "last_commit": "2024-02-05T22:58:34Z",
                 "owner": "NateBrune",
                 "repo": "silk-guardian",
-                "stars": 728
+                "stars": 729
               }
             },
             {
@@ -1222,7 +1222,7 @@
                 "last_commit": "2022-11-27T14:31:20Z",
                 "owner": "DominicBreuker",
                 "repo": "stego-toolkit",
-                "stars": 2687
+                "stars": 2688
               }
             },
             {
@@ -1372,7 +1372,7 @@
                 "last_commit": "2026-04-10T03:46:22Z",
                 "owner": "bannsec",
                 "repo": "stegoVeritas",
-                "stars": 409
+                "stars": 410
               }
             },
             {
@@ -1500,7 +1500,7 @@
                 "last_commit": "2026-05-24T19:55:24Z",
                 "owner": "rfxn",
                 "repo": "linux-malware-detect",
-                "stars": 1490
+                "stars": 1492
               }
             },
             {
@@ -1559,7 +1559,7 @@
                 "last_commit": "2024-03-01T03:31:20Z",
                 "owner": "hephaest0s",
                 "repo": "usbkill",
-                "stars": 4631
+                "stars": 4633
               }
             },
             {
@@ -1589,7 +1589,7 @@
                 "last_commit": "2024-02-05T22:58:34Z",
                 "owner": "NateBrune",
                 "repo": "silk-guardian",
-                "stars": 728
+                "stars": 729
               }
             },
             {
@@ -1699,7 +1699,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:32.501Z",
+    "last_updated": "2026-08-28T03:34:06.623Z",
     "original_repository_info": {
       "archived": false,
       "id": 188878037,
