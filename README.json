@@ -40,10 +40,10 @@
                 "language": "Meson",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T16:26:32Z",
-                "open_issues": 1959,
+                "open_issues": 1960,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21783,
+                "stars": 21787,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -159,7 +159,7 @@
                 "open_issues": 92,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2555,
+                "stars": 2557,
                 "topics": [
                   "datacarving",
                   "datarecovery",
@@ -991,7 +991,7 @@
                 "open_issues": 4,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13739,
+                "stars": 13740,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1016,7 +1016,7 @@
                 "id": 89623031,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T18:07:12Z",
+                "last_commit": "2026-08-29T17:25:59Z",
                 "open_issues": 203,
                 "owner": "Exiv2",
                 "repo": "exiv2",
@@ -1223,11 +1223,11 @@
                 "id": 17578592,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-26T14:51:46Z",
-                "open_issues": 307,
+                "last_commit": "2026-08-29T14:52:12Z",
+                "open_issues": 308,
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 6738,
+                "stars": 6748,
                 "topics": [
                   "antiforensics",
                   "bleachbit",
@@ -1884,7 +1884,7 @@
                 "open_issues": 17,
                 "owner": "DominicBreuker",
                 "repo": "stego-toolkit",
-                "stars": 2688,
+                "stars": 2687,
                 "topics": [
                   "ctf-tools",
                   "docker-image",
@@ -1979,7 +1979,7 @@
                 "open_issues": 2,
                 "owner": "DimitarPetrov",
                 "repo": "stegify",
-                "stars": 1267,
+                "stars": 1266,
                 "topics": [
                   "cli",
                   "decoding",
@@ -2376,7 +2376,7 @@
                 "open_issues": 14,
                 "owner": "rfxn",
                 "repo": "linux-malware-detect",
-                "stars": 1493,
+                "stars": 1494,
                 "topics": [
                   "bash",
                   "clamav",
@@ -2482,7 +2482,7 @@
                 "open_issues": 34,
                 "owner": "hephaest0s",
                 "repo": "usbkill",
-                "stars": 4635,
+                "stars": 4636,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -2503,7 +2503,7 @@
                 "open_issues": 6,
                 "owner": "dekuNukem",
                 "repo": "daytripper",
-                "stars": 4040,
+                "stars": 4039,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -2563,7 +2563,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-19T21:05:44Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "BusKill",
                 "repo": "buskill-app",
                 "stars": 308,
@@ -2704,7 +2704,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:35:00.369Z",
+    "last_updated": "2026-08-29T21:42:57.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",
