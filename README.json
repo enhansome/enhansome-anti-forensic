@@ -17,24 +17,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A universal memory dumper using Frida",
+                    "homepage": null,
                     "id": 58191695,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-08-07T13:03:21Z",
+                    "open_issues": 27,
                     "owner": "Nightbringer21",
                     "repo": "fridump",
-                    "stars": 859
+                    "stars": 859,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:42.693Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Main repo for hosting release binaries",
+                "homepage": "https://frida.re",
                 "id": 9405122,
                 "language": "Meson",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T16:26:32Z",
+                "open_issues": 1959,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21782
+                "stars": 21783,
+                "topics": [
+                  "frida",
+                  "instrumentation",
+                  "vala"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -45,12 +59,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DMG2IMG allows you to convert a (compressed) Apple Disk Images (imported from http://vu1tur.eu.org/dmg2img). Note: the master branch contains imported code, but lacks bugfixes/features from the develop branch. \"develop\" branch is recommended!",
+                "homepage": null,
                 "id": 28820709,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2020-12-27T18:29:17Z",
+                "open_issues": 15,
                 "owner": "Lekensteyn",
                 "repo": "dmg2img",
-                "stars": 271
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -61,12 +80,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "BMAP Tools",
+                "homepage": null,
                 "id": 55086749,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2024-10-16T20:37:45Z",
+                "open_issues": 1,
                 "owner": "intel",
                 "repo": "bmap-tools",
-                "stars": 240
+                "stars": 240,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -77,12 +101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command line utility and Python package to ease the (un)mounting of forensic disk images",
+                "homepage": null,
                 "id": 16476185,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-09T15:49:13Z",
+                "open_issues": 6,
                 "owner": "ralphje",
                 "repo": "imagemounter",
-                "stars": 127
+                "stars": 127,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -93,12 +122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AFF is an open and extensible file format to store disk images and associated metadata. ",
+                "homepage": null,
                 "id": 24747019,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-15T22:38:12Z",
+                "open_issues": 3,
                 "owner": "sshock",
                 "repo": "AFFLIBv3",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             }
@@ -116,12 +150,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TestDisk & PhotoRec",
+                "homepage": "https://www.cgsecurity.org/",
                 "id": 37376198,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-19T11:14:25Z",
+                "open_issues": 92,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2554
+                "stars": 2555,
+                "topics": [
+                  "datacarving",
+                  "datarecovery",
+                  "disk",
+                  "filesystem",
+                  "photorec",
+                  "testdisk"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -132,12 +178,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mXtract - Memory Extractor & Analyzer",
+                "homepage": null,
                 "id": 176359838,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-11-09T16:52:10Z",
+                "open_issues": 0,
                 "owner": "rek7",
                 "repo": "mXtract",
-                "stars": 587
+                "stars": 587,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "cpp11",
+                  "credentials",
+                  "exploitation",
+                  "linux",
+                  "malware",
+                  "memory-hacking",
+                  "pentesting",
+                  "redteam",
+                  "regex",
+                  "security",
+                  "security-tools",
+                  "stealing"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -148,12 +214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Foremost is a console program to recover files based on their headers, footers, and internal data structures. This process is commonly referred to as data carving. Foremost can work on image files, such as those generated by dd, Safeback, Encase, etc, or directly on a drive. The headers and footers can be specified by a configuration file or you can use command line switches to specify built-in file types. These built-in types look at the data structures of a given file format allowing for a more reliable and faster recovery.  Originally developed by the United States Air Force Office of Special Investigations and The Center for Information Systems Security Studies and Research , foremost has been opened to the general public. We welcome any comments, suggestions, patches, or feedback you have on this program. Please direct all correspondence to namikus@users.sf.net.",
+                "homepage": null,
                 "id": 5049997,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-05-26T08:26:00Z",
+                "open_issues": 6,
                 "owner": "korczis",
                 "repo": "foremost",
-                "stars": 377
+                "stars": 377,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -164,12 +235,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recover lost JPEGs and MOV files on a bogus memory card or disk",
+                "homepage": "http://www.rfc1149.net/devel/recoverjpeg",
                 "id": 1108684,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2023-01-29T07:34:31Z",
+                "open_issues": 1,
                 "owner": "samueltardieu",
                 "repo": "recoverjpeg",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "filesystem",
+                  "hacktoberfest",
+                  "pictures",
+                  "recovery-tools",
+                  "sdcard"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -180,12 +262,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Memfetch is a simple utility to dump all memory of a running process, either immediately or when a fault condition is discovered. It is an attractive alternative to the vastly inferior search capabilities of many debuggers and tracers - and a convenient way to grab \"screenshots\" from many types of text-based interactive utilities. ",
+                "homepage": null,
                 "id": 23058822,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2018-02-08T09:38:14Z",
+                "open_issues": 0,
                 "owner": "citypw",
                 "repo": "lcamtuf-memfetch",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -196,12 +283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "System Memory dump",
+                "homepage": null,
                 "id": 125019629,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2018-03-13T09:19:31Z",
+                "open_issues": 0,
                 "owner": "kost",
                 "repo": "memdump",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -212,12 +304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 82218158,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2017-02-16T20:17:13Z",
+                "open_issues": 1,
                 "owner": "lcorbasson",
                 "repo": "scrounge-ntfs",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -228,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Not under active development. Magic Rescue was a tool for recovering files from a corrupted file system.",
+                "homepage": null,
                 "id": 153133657,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2021-09-12T16:00:40Z",
+                "open_issues": 1,
                 "owner": "jbj",
                 "repo": "magicrescue",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             }
@@ -251,12 +353,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An advanced memory forensics framework",
+                "homepage": "http://volatilityfoundation.org/",
                 "id": 19114225,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-05-16T13:40:55Z",
+                "open_issues": 222,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8062
+                "stars": 8062,
+                "topics": [
+                  "malware",
+                  "memory",
+                  "python",
+                  "ram",
+                  "volatility-framework"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -267,12 +380,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card. ",
+                "homepage": "http://www.sleuthkit.org/autopsy/",
                 "id": 2516243,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-06-20T05:43:47Z",
+                "open_issues": 399,
                 "owner": "sleuthkit",
                 "repo": "autopsy",
-                "stars": 3301
+                "stars": 3301,
+                "topics": [
+                  "forensics",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -283,12 +404,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Sleuth Kit® (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital forensics tools and the command line tools can be directly used to find evidence. ",
+                "homepage": "http://www.sleuthkit.org/sleuthkit/",
                 "id": 2562873,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-19T03:11:29Z",
+                "open_issues": 479,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3137
+                "stars": 3137,
+                "topics": [
+                  "forensics",
+                  "incident-response",
+                  "ntfs",
+                  "sleuthkit",
+                  "tct"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -299,12 +431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Please no pull requests for this repository. Thanks!",
+                "homepage": "http://blog.didierstevens.com/didier-stevens-suite/",
                 "id": 35275445,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-30T13:37:13Z",
+                "open_issues": 13,
                 "owner": "DidierStevens",
                 "repo": "DidierStevensSuite",
-                "stars": 2526
+                "stars": 2526,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -315,12 +452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Please no pull requests for this repository. Thanks!",
+                "homepage": "http://blog.didierstevens.com/didier-stevens-suite/",
                 "id": 35275445,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-30T13:37:13Z",
+                "open_issues": 13,
                 "owner": "DidierStevens",
                 "repo": "DidierStevensSuite",
-                "stars": 2526
+                "stars": 2526,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -331,12 +473,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Rekall Memory Forensic Framework",
+                "homepage": "http://www.rekall-forensic.com",
                 "id": 19864741,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2020-10-18T04:33:58Z",
+                "open_issues": 201,
                 "owner": "google",
                 "repo": "rekall",
-                "stars": 2008
+                "stars": 2008,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -347,12 +494,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction",
+                "homepage": null,
                 "id": 105499052,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-05-01T07:33:19Z",
+                "open_issues": 15,
                 "owner": "srixivas",
                 "repo": "PcapXray",
-                "stars": 1875
+                "stars": 1875,
+                "topics": [
+                  "computer-forensics",
+                  "cybersecurity",
+                  "forensic-analysis",
+                  "forensics",
+                  "network",
+                  "network-diagram",
+                  "packets",
+                  "pcap",
+                  "python",
+                  "security",
+                  "tor",
+                  "tor-traffic",
+                  "traffic"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -363,12 +529,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful Python tool to analyze PDF documents",
+                "homepage": "http://peepdf.eternal-todo.com",
                 "id": 33893135,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-19T14:03:04Z",
+                "open_issues": 49,
                 "owner": "jesparza",
                 "repo": "peepdf",
-                "stars": 1461
+                "stars": 1461,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -379,12 +550,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the development tree. Production downloads are at:",
+                "homepage": "https://github.com/simsong/bulk_extractor/releases",
                 "id": 3914697,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-18T02:21:24Z",
+                "open_issues": 67,
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1417
+                "stars": 1417,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -395,12 +571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Malicious HTTP traffic explorer",
+                "homepage": null,
                 "id": 29181792,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-16T02:20:12Z",
+                "open_issues": 15,
                 "owner": "omriher",
                 "repo": "CapTipper",
-                "stars": 726
+                "stars": 726,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -411,12 +592,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for forensic file system reconstruction.",
+                "homepage": null,
                 "id": 50295498,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-26T20:05:07Z",
+                "open_issues": 35,
                 "owner": "Lazza",
                 "repo": "RecuperaBit",
-                "stars": 622
+                "stars": 622,
+                "topics": [
+                  "dfir",
+                  "disk",
+                  "forensics",
+                  "ntfs",
+                  "partition",
+                  "recover-files"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -427,12 +620,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " swap_digger is a tool used to automate Linux swap analysis during post-exploitation or forensics. It automates swap extraction and searches for Linux user credentials, web forms credentials, web forms emails, http basic authentication, Wifi SSID and keys, etc.",
+                "homepage": "http://blog.sevagas.com/?Digging-passwords-in-Linux-swap",
                 "id": 96909591,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2021-06-26T13:33:55Z",
+                "open_issues": 1,
                 "owner": "sevagas",
                 "repo": "swap_digger",
-                "stars": 536
+                "stars": 536,
+                "topics": [
+                  "dfir",
+                  "forensics",
+                  "hacking",
+                  "post-exploitation",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -443,12 +647,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Active Directory forensic framework",
+                "homepage": "http://www.ntdsxtract.com",
                 "id": 23759327,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-24T01:07:18Z",
+                "open_issues": 20,
                 "owner": "csababarta",
                 "repo": "ntdsxtract",
-                "stars": 335
+                "stars": 335,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -459,12 +668,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool suite for inspecting NTFS artifacts.",
+                "homepage": "http://www.williballenthin.com/forensics/mft/indxparse/",
                 "id": 2321587,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-01T10:59:54Z",
+                "open_issues": 14,
                 "owner": "williballenthin",
                 "repo": "INDXParse",
-                "stars": 228
+                "stars": 228,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -475,12 +689,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Network Forensic Analysis Tool (NFAT)",
+                "homepage": "http://www.xplico.org",
                 "id": 49361985,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2020-08-28T15:46:24Z",
+                "open_issues": 17,
                 "owner": "xplico",
                 "repo": "xplico",
-                "stars": 204
+                "stars": 204,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -491,12 +710,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mac OS X Memory Analysis Toolkit",
+                "homepage": null,
                 "id": 32310199,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2016-07-25T00:39:38Z",
+                "open_issues": 1,
                 "owner": "n0fate",
                 "repo": "volafox",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -507,12 +731,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python application designed to remotely dump RAM of a Linux client and create a volatility profile for later analysis on your local host.",
+                "homepage": "https://kd8bny.github.io/LiMEaide/",
                 "id": 79495753,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-08-26T14:34:27Z",
+                "open_issues": 2,
                 "owner": "kd8bny",
                 "repo": "LiMEaide",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "digital-forensics",
+                  "linux",
+                  "memory-dump",
+                  "volatility-profiles"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -523,12 +757,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Windows Recycle Bin analyser",
+                "homepage": "https://abelcheung.github.io/rifiuti2",
                 "id": 32100044,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-11-11T05:20:25Z",
+                "open_issues": 1,
                 "owner": "abelcheung",
                 "repo": "rifiuti2",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "forensic-examinations",
+                  "forensics",
+                  "investigation",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -539,12 +783,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extract all forensic interesting information of Firefox, Iceweasel and Seamonkey browsers",
+                "homepage": "http://www.dumpzilla.org",
                 "id": 49797654,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-09T15:28:51Z",
+                "open_issues": 10,
                 "owner": "Busindre",
                 "repo": "dumpzilla",
-                "stars": 148
+                "stars": 148,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -555,12 +804,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iPBA, Qt version",
+                "homepage": null,
                 "id": 7750365,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-05-05T08:18:27Z",
+                "open_issues": 9,
                 "owner": "PicciMario",
                 "repo": "iPhone-Backup-Analyzer-2",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -571,12 +825,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Analyze and help extract older \"hidden\" versions of a pdf from the current pdf.",
+                "homepage": null,
                 "id": 11094676,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-09-10T17:21:03Z",
+                "open_issues": 1,
                 "owner": "enferex",
                 "repo": "pdfresurrect",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "forensic-analysis",
+                  "pdf"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -587,12 +849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cross-Platform Forensic Framework for Google Chrome",
+                "homepage": "http://osandamalith.github.io/ChromeFreak/",
                 "id": 18844341,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-03-15T13:22:39Z",
+                "open_issues": 0,
                 "owner": "OsandaMalith",
                 "repo": "ChromeFreak",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -603,12 +870,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Forensic Framework for Skype",
+                "homepage": null,
                 "id": 17533620,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2017-05-21T04:29:10Z",
+                "open_issues": 5,
                 "owner": "OsandaMalith",
                 "repo": "SkypeFreak",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -619,12 +891,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "iOS forensic tool",
+                "homepage": "https://www.owasp.org/index.php/Projects/OWASP_iOSForensic",
                 "id": 19979429,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-06-10T14:53:00Z",
+                "open_issues": 0,
                 "owner": "Flo354",
                 "repo": "iOSForensic",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -635,12 +912,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Replay HTTP traffic live from a PCAP file",
+                "homepage": null,
                 "id": 32655580,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-01-19T16:17:53Z",
+                "open_issues": 0,
                 "owner": "sparrowt",
                 "repo": "replayproxy",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -651,12 +933,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iphoneanalyzer : Explores internal file structure of iphone and many more features",
+                "homepage": null,
                 "id": 43613060,
                 "language": null,
+                "license": null,
                 "last_commit": "2015-10-03T20:09:09Z",
+                "open_issues": 0,
                 "owner": "foreni-packages",
                 "repo": "iphoneanalyzer",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -667,12 +954,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Moved to https://github.com/mentebinaria/readpe",
+                "homepage": null,
                 "id": 630670746,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-20T22:26:17Z",
+                "open_issues": 0,
                 "owner": "merces",
                 "repo": "pev",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             }
@@ -690,12 +982,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐶 A curated list of Web Security materials and resources.",
+                "homepage": "https://awesomelists.top/#/repos/qazbnm456/awesome-web-security",
                 "id": 80358070,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-21T13:51:02Z",
+                "open_issues": 4,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13739
+                "stars": 13739,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "penetration-testing",
+                  "security",
+                  "web",
+                  "websecurity"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -706,12 +1011,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image metadata library and tools",
+                "homepage": "http://www.exiv2.org/",
                 "id": 89623031,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:07:12Z",
+                "open_issues": 203,
                 "owner": "Exiv2",
                 "repo": "exiv2",
-                "stars": 1157
+                "stars": 1157,
+                "topics": [
+                  "cli",
+                  "exif",
+                  "exif-interface",
+                  "exif-metadata",
+                  "image-metadata",
+                  "iptc",
+                  "iptc-metadata",
+                  "xmp",
+                  "xmp-metadata"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -722,12 +1042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalpel is an open source data carving tool. It is not being actively maintained. ",
+                "homepage": null,
                 "id": 11002722,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2024-03-27T20:39:48Z",
+                "open_issues": 44,
                 "owner": "sleuthkit",
                 "repo": "scalpel",
-                "stars": 689
+                "stars": 689,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -738,12 +1063,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Timestomper and Timestamp checker with nanosecond accuracy for NTFS volumes",
+                "homepage": null,
                 "id": 167610832,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-09-14T14:51:23Z",
+                "open_issues": 1,
                 "owner": "limbenjamin",
                 "repo": "nTimetools",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "forensic-analysts",
+                  "macb-timestamps",
+                  "redteam",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -754,12 +1089,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manipulate timestamps on NTFS",
+                "homepage": null,
                 "id": 16999757,
                 "language": "AutoIt",
+                "license": "NOASSERTION",
                 "last_commit": "2014-11-10T18:13:46Z",
+                "open_issues": 4,
                 "owner": "jschicht",
                 "repo": "SetMace",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             }
@@ -777,12 +1117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ELF anti-forensics exec, for injecting full dynamic executables into process image (With thread injection)",
+                "homepage": null,
                 "id": 25990962,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-03-14T22:44:38Z",
+                "open_issues": 1,
                 "owner": "elfmaster",
                 "repo": "saruman",
-                "stars": 140
+                "stars": 140,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -793,12 +1138,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fileless persistence, attacks and anti-forensic capabilties.",
+                "homepage": null,
                 "id": 150523464,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-12-06T08:36:07Z",
+                "open_issues": 0,
                 "owner": "NtRaiseHardError",
                 "repo": "Kaiser",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "anti-forensics",
+                  "file-less",
+                  "forensics",
+                  "malware-research",
+                  "persistence",
+                  "powershell",
+                  "security",
+                  "winapi",
+                  "wmi"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -809,12 +1169,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "execute stuff in memory",
+                "homepage": null,
                 "id": 198096236,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-07-21T19:23:52Z",
+                "open_issues": 0,
                 "owner": "droberson",
                 "repo": "harness",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -825,12 +1190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ptrace injection",
+                "homepage": null,
                 "id": 205425395,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-08-30T17:11:52Z",
+                "open_issues": 0,
                 "owner": "droberson",
                 "repo": "papa-shango",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             }
@@ -848,12 +1218,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BleachBit system cleaner for Windows and Linux",
+                "homepage": "https://www.bleachbit.org",
                 "id": 17578592,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T14:51:46Z",
+                "open_issues": 307,
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 6736
+                "stars": 6738,
+                "topics": [
+                  "antiforensics",
+                  "bleachbit",
+                  "ccleaner-alternative",
+                  "disk-cleaner",
+                  "gplv3",
+                  "gtk",
+                  "linux",
+                  "privacy",
+                  "python",
+                  "security",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -864,12 +1251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unified repository for different Metasploit Framework payloads",
+                "homepage": null,
                 "id": 18418533,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T14:43:20Z",
+                "open_issues": 83,
                 "owner": "rapid7",
                 "repo": "metasploit-payloads",
-                "stars": 2053
+                "stars": 2053,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -880,12 +1272,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NTFS-3G Safe Read/Write NTFS Driver",
+                "homepage": "https://www.tuxera.com/company/open-source",
                 "id": 343714504,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-15T17:55:32Z",
+                "open_issues": 102,
                 "owner": "tuxera",
                 "repo": "ntfs-3g",
-                "stars": 1478
+                "stars": 1478,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -896,12 +1293,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anti Forensics Tool For Red Teamers, Used For Erasing Footprints In The Post Exploitation Phase.",
+                "homepage": null,
                 "id": 575452175,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-23T23:23:22Z",
+                "open_issues": 5,
                 "owner": "PaulNorman01",
                 "repo": "Forensia",
-                "stars": 786
+                "stars": 786,
+                "topics": [
+                  "anti-forensics",
+                  "evasion",
+                  "forensics",
+                  "post-exploitation",
+                  "redteam"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -912,12 +1320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " << Silk Guardian >> is an anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.",
+                "homepage": null,
                 "id": 35171500,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-02-05T22:58:34Z",
+                "open_issues": 8,
                 "owner": "NateBrune",
                 "repo": "silk-guardian",
-                "stars": 729
+                "stars": 729,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -928,12 +1341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A way to delete a locked file, or current running executable, on disk.",
+                "homepage": null,
                 "id": 331126796,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-11-05T00:00:05Z",
+                "open_issues": 0,
                 "owner": "LloydLabs",
                 "repo": "delete-self-poc",
-                "stars": 620
+                "stars": 620,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -944,12 +1362,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wipe files and drives securely with randoms ASCII dicks",
+                "homepage": null,
                 "id": 38847482,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-11-25T07:01:25Z",
+                "open_issues": 1,
                 "owner": "Drewsif",
                 "repo": "wipedicks",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "anti-forensics",
+                  "antiforensics",
+                  "forensics",
+                  "random-ascii-dicks",
+                  "wipe-files"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -960,12 +1389,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure destruction of sensitive virtual data, temporary files and swap partitions",
+                "homepage": null,
                 "id": 273794227,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-01-16T20:34:52Z",
+                "open_issues": 2,
                 "owner": "r3nt0n",
                 "repo": "wiper",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "cyber-security",
+                  "cyberpunk",
+                  "data",
+                  "data-destruction",
+                  "delete",
+                  "delete-files",
+                  "destruction",
+                  "hacking-tool",
+                  "python",
+                  "python-script",
+                  "python3",
+                  "secure",
+                  "secure-delete",
+                  "shred",
+                  "shredder",
+                  "shredding-algorithms",
+                  "shredding-files",
+                  "wipe-disk",
+                  "wipe-files",
+                  "wipe-out"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -976,12 +1431,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nuke My LUKS is a network panic button designed to overwrite with random data the LUKS header of computers in a LAN.",
+                "homepage": null,
                 "id": 66269908,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2016-08-31T13:42:17Z",
+                "open_issues": 0,
                 "owner": "juliocesarfort",
                 "repo": "nukemyluks",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -992,12 +1452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Unix tool for secure deletion",
+                "homepage": "http://lambda-diode.com/software/wipe/",
                 "id": 115003,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-12-23T16:55:04Z",
+                "open_issues": 8,
                 "owner": "berke",
                 "repo": "wipe",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1008,12 +1473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure file erasing utility for Mac OS X",
+                "homepage": null,
                 "id": 25923620,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-09-11T18:08:04Z",
+                "open_issues": 3,
                 "owner": "edenwaith",
                 "repo": "Permanent-Eraser",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             }
@@ -1031,12 +1501,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Credentials recovery project",
+                "homepage": null,
                 "id": 30870954,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2025-09-18T08:01:27Z",
+                "open_issues": 17,
                 "owner": "AlessandroZ",
                 "repo": "LaZagne",
-                "stars": 10965
+                "stars": 10965,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1047,12 +1522,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to dump the login password from the current linux user",
+                "homepage": null,
                 "id": 86508681,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-05T16:43:43Z",
+                "open_issues": 6,
                 "owner": "huntergregal",
                 "repo": "mimipenguin",
-                "stars": 4158
+                "stars": 4158,
+                "topics": [
+                  "password-extraction",
+                  "post-exploitation"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             }
@@ -1070,12 +1553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decentralized opsec panic button operating over UDP broadcasts and HTTP. Provides automatic ejection of encrypted drives as a safe-measure against cold-boot attacks.",
+                "homepage": null,
                 "id": 7149414,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-11-10T11:39:24Z",
+                "open_issues": 3,
                 "owner": "niklasfemerstrand",
                 "repo": "panic_bcast",
-                "stars": 225
+                "stars": 225,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1086,12 +1574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "midgetpack is a multiplatform secure ELF packer",
+                "homepage": null,
                 "id": 22230619,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2014-07-29T08:41:20Z",
+                "open_issues": 6,
                 "owner": "arisada",
                 "repo": "midgetpack",
-                "stars": 210
+                "stars": 210,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1102,12 +1595,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple ELF crypter. Uses RC4 encryption.",
+                "homepage": null,
                 "id": 95156257,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2020-09-10T00:26:54Z",
+                "open_issues": 1,
                 "owner": "droberson",
                 "repo": "ELFcrypt",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1123,24 +1621,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A toolset for creating cryptographically strong volumes that destroy themselves upon tampering or via issued command",
+                    "homepage": null,
                     "id": 104736317,
                     "language": "Perl",
+                    "license": "GPL-3.0",
                     "last_commit": "2017-12-03T12:07:55Z",
+                    "open_issues": 0,
                     "owner": "MonolithInd",
                     "repo": "suicideCrypt",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:42.693Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Universal script packer-- transforms any type of script into a protected ELF executable, encrypted with anti-debugging.",
+                "homepage": null,
                 "id": 25991578,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2014-10-30T22:03:18Z",
+                "open_issues": 1,
                 "owner": "elfmaster",
                 "repo": "sherlocked",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1151,12 +1659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Original code about binary encryption from phrack",
+                "homepage": null,
                 "id": 4295686,
                 "language": "C",
+                "license": null,
                 "last_commit": "2012-05-11T13:15:15Z",
+                "open_issues": 0,
                 "owner": "packz",
                 "repo": "binary-encryption",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1167,12 +1680,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reveal encrypted files stored on a filesystem.",
+                "homepage": null,
                 "id": 71215696,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2018-11-09T18:01:15Z",
+                "open_issues": 4,
                 "owner": "antagon",
                 "repo": "TCHunt-ng",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "cryptography",
+                  "encryption",
+                  "forensics",
+                  "security",
+                  "truecrypt"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1183,12 +1707,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Truehunter",
+                "homepage": null,
                 "id": 88866938,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-05-15T19:48:56Z",
+                "open_issues": 1,
                 "owner": "adoreste",
                 "repo": "truehunter",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "dfir",
+                  "entropy",
+                  "forensics",
+                  "python",
+                  "truecrypt",
+                  "veracrypt"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             }
@@ -1206,12 +1742,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure Python parser for Windows Event Log files (.evtx)",
+                "homepage": null,
                 "id": 7301482,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-19T17:20:16Z",
+                "open_issues": 24,
                 "owner": "williballenthin",
                 "repo": "python-evtx",
-                "stars": 779
+                "stars": 779,
+                "topics": [
+                  "event-log",
+                  "evtx",
+                  "forensics"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1222,12 +1767,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Recover event log entries from an image by heurisitically looking for record structures.",
+                "homepage": null,
                 "id": 5708301,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-10-09T17:31:14Z",
+                "open_issues": 1,
                 "owner": "williballenthin",
                 "repo": "LfLe",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1238,12 +1788,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fix acquired .evt - Windows Event Log files (Forensics)",
+                "homepage": null,
                 "id": 54509424,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-03-29T20:09:29Z",
+                "open_issues": 0,
                 "owner": "yarox24",
                 "repo": "evtkit",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1254,12 +1809,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GrokEVT is a collection of scripts built for reading Windows® NT/2K/XP/2K3 event log files. GrokEVT is released under the GNU GPL, and is implemented in Python.",
+                "homepage": null,
                 "id": 36998856,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-12T10:18:33Z",
+                "open_issues": 1,
                 "owner": "ecbftw",
                 "repo": "grokevt",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             }
@@ -1277,12 +1837,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐",
+                "homepage": "https://stegcloak.surge.sh",
                 "id": 259692009,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-01T20:19:13Z",
+                "open_issues": 15,
                 "owner": "KuroLabs",
                 "repo": "stegcloak",
-                "stars": 3874
+                "stars": 3874,
+                "topics": [
+                  "cipher",
+                  "compression",
+                  "cryptography",
+                  "data-exfiltration",
+                  "functional-programming",
+                  "hacking",
+                  "hacking-tool",
+                  "hacking-tools",
+                  "infosec",
+                  "javascript",
+                  "privacy",
+                  "ramdajs",
+                  "security",
+                  "security-tools",
+                  "steganography",
+                  "stego"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1293,12 +1875,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of steganography tools - helps with CTF challenges",
+                "homepage": null,
                 "id": 107271029,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-11-27T14:31:20Z",
+                "open_issues": 17,
                 "owner": "DominicBreuker",
                 "repo": "stego-toolkit",
-                "stars": 2688
+                "stars": 2688,
+                "topics": [
+                  "ctf-tools",
+                  "docker-image",
+                  "steganography"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1309,12 +1900,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pack up to 3MB of data into a tweetable PNG polyglot file.",
+                "homepage": null,
                 "id": 348501512,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-08-11T02:47:58Z",
+                "open_issues": 2,
                 "owner": "DavidBuchanan314",
                 "repo": "tweetable-polyglot-png",
-                "stars": 2608
+                "stars": 2608,
+                "topics": [
+                  "png",
+                  "polyglot",
+                  "polyglot-files",
+                  "steganography",
+                  "twitter",
+                  "zip"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1325,12 +1928,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CloakifyFactory - Data Exfiltration & Infiltration In Plain Sight; Convert any filetype into list of everyday strings, using Text-Based Steganography; Evade DLP/MLS Devices, Defeat Data Whitelisting Controls, Social Engineering of Analysts, Evade AV Detection",
+                "homepage": null,
                 "id": 58249831,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-11-24T05:25:04Z",
+                "open_issues": 8,
                 "owner": "TryCatchHCF",
                 "repo": "Cloakify",
-                "stars": 1683
+                "stars": 1683,
+                "topics": [
+                  "av-evasion",
+                  "cipher",
+                  "cryptography",
+                  "data-exfiltration",
+                  "dlp",
+                  "exfiltration",
+                  "hacking",
+                  "hacking-tool",
+                  "hacking-tools",
+                  "infosec",
+                  "pentest",
+                  "pentest-tool",
+                  "pentest-tools",
+                  "pentesting",
+                  "privacy",
+                  "red-team",
+                  "security",
+                  "security-tools",
+                  "steganography",
+                  "stego"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1341,12 +1970,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔍 Go tool for LSB steganography, capable of hiding any file within an image.",
+                "homepage": null,
                 "id": 159698099,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-04-11T06:07:37Z",
+                "open_issues": 2,
                 "owner": "DimitarPetrov",
                 "repo": "stegify",
-                "stars": 1267
+                "stars": 1267,
+                "topics": [
+                  "cli",
+                  "decoding",
+                  "encoding",
+                  "encoding-library",
+                  "golang",
+                  "golang-tools",
+                  "hiding-in-png",
+                  "hiding-information",
+                  "jpeg",
+                  "png",
+                  "steganography",
+                  "steganography-library"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1357,12 +2004,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple C++ Image Steganography tool to encrypt and hide files inside images using Least-Significant-Bit encoding.",
+                "homepage": null,
                 "id": 553771946,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-05-10T00:47:21Z",
+                "open_issues": 1,
                 "owner": "7thSamurai",
                 "repo": "steganography",
-                "stars": 1086
+                "stars": 1086,
+                "topics": [
+                  "aes",
+                  "cryptography",
+                  "encryption",
+                  "pbkdf2",
+                  "sha256",
+                  "steganography",
+                  "steganography-tools"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1373,12 +2033,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Invisible Hyperlinks in Physical Photographs",
+                "homepage": "http://www.matthewtancik.com/stegastamp",
                 "id": 180217102,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-12-08T01:32:09Z",
+                "open_issues": 36,
                 "owner": "tancik",
                 "repo": "StegaStamp",
-                "stars": 875
+                "stars": 875,
+                "topics": [
+                  "barcode",
+                  "qrcode",
+                  "steganography",
+                  "tensorflow",
+                  "watermark"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1389,12 +2060,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Least Significant Bit Steganography for bitmap images (.bmp and .png), WAV sound files, and byte sequences. Simple LSB Steganalysis (LSB extraction) for bitmap images.",
+                "homepage": null,
                 "id": 43174818,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-10T18:59:01Z",
+                "open_issues": 0,
                 "owner": "ragibson",
                 "repo": "Steganography",
-                "stars": 660
+                "stars": 660,
+                "topics": [
+                  "bitmap",
+                  "cryptography",
+                  "ctf",
+                  "steganalysis",
+                  "steganography",
+                  "wav"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1405,12 +2088,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PacketWhisper: Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods. Transfer data between systems without the communicating devices directly connecting to each other or to a common endpoint. No need to control a DNS Name Server.",
+                "homepage": null,
                 "id": 143650126,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-03T21:58:45Z",
+                "open_issues": 4,
                 "owner": "TryCatchHCF",
                 "repo": "PacketWhisper",
-                "stars": 654
+                "stars": 654,
+                "topics": [
+                  "cryptography",
+                  "data-exfiltration",
+                  "dlp",
+                  "exfiltration",
+                  "hacking",
+                  "hacking-tools",
+                  "pentest-tool",
+                  "pentesting",
+                  "red-team",
+                  "security",
+                  "security-tools",
+                  "steganography"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1421,12 +2122,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JPEG steganography",
+                "homepage": null,
                 "id": 102983532,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-05-11T03:28:48Z",
+                "open_issues": 0,
                 "owner": "lukechampine",
                 "repo": "jsteg",
-                "stars": 646
+                "stars": 646,
+                "topics": [
+                  "jpeg",
+                  "steganography"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1437,12 +2146,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "UNMAINTAINED. USE AT OWN RISK. Stegdetect is an automated tool for detecting steganographic content in images.",
+                "homepage": "https://web.archive.org/web/20150415213536/http://www.outguess.org/detection.php",
                 "id": 9317679,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2018-10-31T08:44:08Z",
+                "open_issues": 3,
                 "owner": "abeluck",
                 "repo": "stegdetect",
-                "stars": 427
+                "stars": 427,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1453,12 +2167,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another Stego Tool",
+                "homepage": null,
                 "id": 40457073,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-04-10T03:46:22Z",
+                "open_issues": 7,
                 "owner": "bannsec",
                 "repo": "stegoVeritas",
-                "stars": 410
+                "stars": 410,
+                "topics": [
+                  "python3",
+                  "steganography",
+                  "stego"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1469,12 +2192,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hiding messages in x86 programs using semantic duals",
+                "homepage": "https://crates.io/crates/steg86",
                 "id": 287818201,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-10T19:32:38Z",
+                "open_issues": 5,
                 "owner": "woodruffw",
                 "repo": "steg86",
-                "stars": 324
+                "stars": 324,
+                "topics": [
+                  "amd64",
+                  "binary-translation",
+                  "hacktoberfest",
+                  "steganography",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1485,12 +2219,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Audio file steganography. Hides files or text inside audio files and retrieve them automatically",
+                "homepage": null,
                 "id": 26753034,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-05-26T06:29:42Z",
+                "open_issues": 5,
                 "owner": "danielcardeenas",
                 "repo": "AudioStego",
-                "stars": 299
+                "stars": 299,
+                "topics": [
+                  "steganography"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1506,24 +2247,43 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SteganoGAN is a tool for creating steganographic images using adversarial training.",
+                    "homepage": null,
                     "id": 147863828,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-03-23T03:34:08Z",
+                    "open_issues": 35,
                     "owner": "DAI-Lab",
                     "repo": "SteganoGAN",
-                    "stars": 393
+                    "stars": 393,
+                    "topics": [
+                      "generative-adversarial-networks",
+                      "steganography"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:09:42.693Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "🦕 stego is a steganographic swiss army knife.",
+                "homepage": null,
                 "id": 189920394,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-06-06T21:32:15Z",
+                "open_issues": 11,
                 "owner": "ajmwagar",
                 "repo": "stego",
-                "stars": 274
+                "stars": 274,
+                "topics": [
+                  "cli",
+                  "decoding",
+                  "encoding",
+                  "steganographic",
+                  "steganography"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1534,12 +2294,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Steganography in chess games",
+                "homepage": "https://incoherency.co.uk/chess-steg/",
                 "id": 152005526,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-08-22T15:35:18Z",
+                "open_issues": 2,
                 "owner": "jes",
                 "repo": "chess-steg",
-                "stars": 93
+                "stars": 93,
+                "topics": [
+                  "chess",
+                  "steganography"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1550,12 +2318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A FUSE based steganographic file system",
+                "homepage": "https://albinoloverats.net/projects/stegfs",
                 "id": 2836016,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-02T14:48:20Z",
+                "open_issues": 0,
                 "owner": "albinoloverats",
                 "repo": "stegfs",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1566,12 +2339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Analyze and insert data between frames of an mp3.",
+                "homepage": null,
                 "id": 11094578,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2013-07-01T12:56:08Z",
+                "open_issues": 0,
                 "owner": "enferex",
                 "repo": "mp3nema",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             }
@@ -1589,12 +2367,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-engine Linux malware scanner with five detection stages (MD5, HEX pattern, YARA, ClamAV, statistical), real-time inotify monitoring, quarantine, and multi-channel alerting",
+                "homepage": "http://www.rfxn.com/projects/linux-malware-detect/",
                 "id": 12685470,
                 "language": "Shell",
+                "license": "GPL-2.0",
                 "last_commit": "2026-05-24T19:55:24Z",
+                "open_issues": 14,
                 "owner": "rfxn",
                 "repo": "linux-malware-detect",
-                "stars": 1493
+                "stars": 1493,
+                "topics": [
+                  "bash",
+                  "clamav",
+                  "inotify",
+                  "intrusion-detection",
+                  "linux-security",
+                  "malware-detection",
+                  "security-scanner",
+                  "yara"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1605,12 +2397,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tool for Automatic Analysis of Malware Behavior",
+                "homepage": null,
                 "id": 193824,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2019-05-08T19:49:27Z",
+                "open_issues": 1,
                 "owner": "rieck",
                 "repo": "malheur",
-                "stars": 375
+                "stars": 375,
+                "topics": [
+                  "classification",
+                  "clustering",
+                  "machine-learning",
+                  "malware-analysis"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             }
@@ -1628,12 +2430,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HiddenVM — Use any desktop OS without leaving a trace.",
+                "homepage": null,
                 "id": 230892453,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-18T21:46:29Z",
+                "open_issues": 21,
                 "owner": "aforensics",
                 "repo": "HiddenVM",
-                "stars": 2677
+                "stars": 2677,
+                "topics": [
+                  "anti-forensics",
+                  "antiforensics",
+                  "debian",
+                  "deniability",
+                  "linux",
+                  "opsec",
+                  "privacy",
+                  "snowden",
+                  "tails",
+                  "tor",
+                  "veracrypt",
+                  "virtualbox",
+                  "virtualization",
+                  "vm"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             }
@@ -1651,12 +2473,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "« usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.",
+                "homepage": null,
                 "id": 30810457,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-01T03:31:20Z",
+                "open_issues": 34,
                 "owner": "hephaest0s",
                 "repo": "usbkill",
-                "stars": 4635
+                "stars": 4635,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1667,12 +2494,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hide-My-Windows Laser Tripwire",
+                "homepage": null,
                 "id": 144575169,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-01-04T02:06:40Z",
+                "open_issues": 6,
                 "owner": "dekuNukem",
                 "repo": "daytripper",
-                "stars": 4040
+                "stars": 4040,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1683,12 +2515,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " << Silk Guardian >> is an anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.",
+                "homepage": null,
                 "id": 35171500,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-02-05T22:58:34Z",
+                "open_issues": 8,
                 "owner": "NateBrune",
                 "repo": "silk-guardian",
-                "stars": 729
+                "stars": 729,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1699,12 +2536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Detect Evil Maid Attacks",
+                "homepage": null,
                 "id": 119749154,
                 "language": "Objective-C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-01T06:28:36Z",
+                "open_issues": 30,
                 "owner": "objective-see",
                 "repo": "DoNotDisturb",
-                "stars": 329
+                "stars": 329,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1715,12 +2557,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BusKill's main CLI/GUI app for arming/disarming/configuring the BusKill laptop kill cord",
+                "homepage": "https://www.buskill.in",
                 "id": 274360069,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-19T21:05:44Z",
+                "open_issues": 59,
                 "owner": "BusKill",
                 "repo": "buskill-app",
-                "stars": 308
+                "stars": 308,
+                "topics": [
+                  "anti-forensics",
+                  "cli",
+                  "deadmanswitch",
+                  "gui",
+                  "infosec",
+                  "kivy",
+                  "libusb",
+                  "linux",
+                  "macos",
+                  "opsec",
+                  "python",
+                  "security",
+                  "tripwire",
+                  "usb",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1731,12 +2594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "anti-forensic tool that writes udev rules for known usb devices and do some things at unknown usb insertion or specific usb device removal",
+                "homepage": null,
                 "id": 66457692,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2017-06-12T12:42:15Z",
+                "open_issues": 1,
                 "owner": "trpt",
                 "repo": "usbdeath",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1747,12 +2615,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "USB device as a kill-switch - map any USB device as a key that triggers immediate forced shutdown when USB is removed.",
+                "homepage": null,
                 "id": 145916008,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-03T02:18:42Z",
+                "open_issues": 22,
                 "owner": "thereisnotime",
                 "repo": "xxUSBSentinel",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "anti-forensic",
+                  "anti-forensics",
+                  "monitoring-tool",
+                  "opsec",
+                  "privacy-tools",
+                  "secops",
+                  "security",
+                  "security-tools",
+                  "usb",
+                  "usb-devices",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             }
@@ -1770,12 +2655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A proof-of-concept Android application to detect and defeat some of the Cellebrite UFED forensic toolkit extraction techniques. ",
+                "homepage": null,
                 "id": 365829520,
                 "language": "Java",
+                "license": "CC0-1.0",
                 "last_commit": "2024-06-22T18:34:44Z",
+                "open_issues": 1,
                 "owner": "levlesec",
                 "repo": "lockup",
-                "stars": 353
+                "stars": 353,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -1786,12 +2676,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A \"panic button\" app for triggering a \"ripple effect\" across apps that are set up to respond to panic events",
+                "homepage": "https://guardianproject.info/tags/ripple/",
                 "id": 45115039,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-17T09:36:37Z",
+                "open_issues": 17,
                 "owner": "guardianproject",
                 "repo": "ripple",
-                "stars": 292
+                "stars": 292,
+                "topics": [
+                  "panic",
+                  "panic-button",
+                  "safety"
+                ]
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             }
@@ -1805,15 +2704,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:09:42.693Z",
+    "last_updated": "2026-08-29T04:35:00.369Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",
+      "homepage": "https://shadawck.github.io/awesome-anti-forensic/",
       "id": 188878037,
       "language": "HTML",
+      "license": "NOASSERTION",
       "last_commit": "2023-11-27T11:25:55Z",
+      "open_issues": 6,
       "owner": "shadawck",
       "repo": "awesome-anti-forensic",
-      "stars": 1035
+      "stars": 1035,
+      "topics": [
+        "anti-forensic",
+        "anti-forensics",
+        "antiforensics",
+        "awesome",
+        "awesome-list",
+        "cybersecurity",
+        "forensic-analysis",
+        "security"
+      ]
     },
     "original_repository_sha": "89656021757d1e628af40458f5c95ae27d6e6868",
     "enhanced_repository": "enhansome/enhansome-anti-forensic",
