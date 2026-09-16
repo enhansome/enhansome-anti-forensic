@@ -39,11 +39,11 @@
                 "id": 9405122,
                 "language": "Meson",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T18:37:32Z",
-                "open_issues": 1962,
+                "last_commit": "2026-09-16T17:29:13Z",
+                "open_issues": 1964,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21935,
+                "stars": 21946,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -159,7 +159,7 @@
                 "open_issues": 92,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2588,
+                "stars": 2592,
                 "topics": [
                   "datacarving",
                   "datarecovery",
@@ -362,7 +362,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8059,
+                "stars": 8060,
                 "topics": [
                   "malware",
                   "memory",
@@ -389,7 +389,7 @@
                 "open_issues": 403,
                 "owner": "sleuthkit",
                 "repo": "autopsy",
-                "stars": 3329,
+                "stars": 3331,
                 "topics": [
                   "forensics",
                   "java"
@@ -413,7 +413,7 @@
                 "open_issues": 484,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3149,
+                "stars": 3150,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -559,7 +559,7 @@
                 "open_issues": 66,
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1421,
+                "stars": 1422,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -988,10 +988,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-14T12:46:56Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13797,
+                "stars": 13803,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1016,11 +1016,11 @@
                 "id": 89623031,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T20:00:28Z",
-                "open_issues": 206,
+                "last_commit": "2026-09-16T20:58:49Z",
+                "open_issues": 205,
                 "owner": "Exiv2",
                 "repo": "exiv2",
-                "stars": 1160,
+                "stars": 1161,
                 "topics": [
                   "cli",
                   "exif",
@@ -1223,11 +1223,11 @@
                 "id": 17578592,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-13T17:29:12Z",
+                "last_commit": "2026-09-16T21:15:17Z",
                 "open_issues": 314,
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 6918,
+                "stars": 6929,
                 "topics": [
                   "antiforensics",
                   "bleachbit",
@@ -1266,7 +1266,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-26T14:43:20Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "rapid7",
                 "repo": "metasploit-payloads",
                 "stars": 2059,
@@ -1519,7 +1519,7 @@
                 "open_issues": 17,
                 "owner": "AlessandroZ",
                 "repo": "LaZagne",
-                "stars": 10980,
+                "stars": 10984,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1540,7 +1540,7 @@
                 "open_issues": 6,
                 "owner": "huntergregal",
                 "repo": "mimipenguin",
-                "stars": 4165,
+                "stars": 4167,
                 "topics": [
                   "password-extraction",
                   "post-exploitation"
@@ -1918,7 +1918,7 @@
                 "open_issues": 2,
                 "owner": "DavidBuchanan314",
                 "repo": "tweetable-polyglot-png",
-                "stars": 2610,
+                "stars": 2611,
                 "topics": [
                   "png",
                   "polyglot",
@@ -2022,7 +2022,7 @@
                 "open_issues": 1,
                 "owner": "7thSamurai",
                 "repo": "steganography",
-                "stars": 1084,
+                "stars": 1085,
                 "topics": [
                   "aes",
                   "cryptography",
@@ -2078,7 +2078,7 @@
                 "open_issues": 0,
                 "owner": "ragibson",
                 "repo": "Steganography",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "bitmap",
                   "cryptography",
@@ -2106,7 +2106,7 @@
                 "open_issues": 4,
                 "owner": "TryCatchHCF",
                 "repo": "PacketWhisper",
-                "stars": 656,
+                "stars": 654,
                 "topics": [
                   "cryptography",
                   "data-exfiltration",
@@ -2448,7 +2448,7 @@
                 "open_issues": 21,
                 "owner": "aforensics",
                 "repo": "HiddenVM",
-                "stars": 2682,
+                "stars": 2681,
                 "topics": [
                   "anti-forensics",
                   "antiforensics",
@@ -2713,7 +2713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:12:25.308Z",
+    "last_updated": "2026-09-16T22:08:46.284Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",
