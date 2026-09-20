@@ -43,7 +43,7 @@
                 "open_issues": 1964,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21976,
+                "stars": 21982,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -159,7 +159,7 @@
                 "open_issues": 92,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2595,
+                "stars": 2596,
                 "topics": [
                   "datacarving",
                   "datarecovery",
@@ -362,7 +362,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8060,
+                "stars": 8061,
                 "topics": [
                   "malware",
                   "memory",
@@ -389,7 +389,7 @@
                 "open_issues": 403,
                 "owner": "sleuthkit",
                 "repo": "autopsy",
-                "stars": 3339,
+                "stars": 3344,
                 "topics": [
                   "forensics",
                   "java"
@@ -413,7 +413,7 @@
                 "open_issues": 481,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3151,
+                "stars": 3154,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -559,7 +559,7 @@
                 "open_issues": 67,
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1422,
+                "stars": 1423,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -991,7 +991,7 @@
                 "open_issues": 9,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13811,
+                "stars": 13812,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1020,7 +1020,7 @@
                 "open_issues": 206,
                 "owner": "Exiv2",
                 "repo": "exiv2",
-                "stars": 1163,
+                "stars": 1164,
                 "topics": [
                   "cli",
                   "exif",
@@ -1223,11 +1223,11 @@
                 "id": 17578592,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T05:12:18Z",
-                "open_issues": 316,
+                "last_commit": "2026-09-20T21:17:21Z",
+                "open_issues": 313,
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 6944,
+                "stars": 6952,
                 "topics": [
                   "antiforensics",
                   "bleachbit",
@@ -1269,7 +1269,7 @@
                 "open_issues": 85,
                 "owner": "rapid7",
                 "repo": "metasploit-payloads",
-                "stars": 2060,
+                "stars": 2062,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1290,7 +1290,7 @@
                 "open_issues": 104,
                 "owner": "tuxera",
                 "repo": "ntfs-3g",
-                "stars": 1488,
+                "stars": 1491,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1516,10 +1516,10 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2025-09-18T08:01:27Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "AlessandroZ",
                 "repo": "LaZagne",
-                "stars": 10989,
+                "stars": 10988,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1540,7 +1540,7 @@
                 "open_issues": 6,
                 "owner": "huntergregal",
                 "repo": "mimipenguin",
-                "stars": 4168,
+                "stars": 4167,
                 "topics": [
                   "password-extraction",
                   "post-exploitation"
@@ -1855,7 +1855,7 @@
                 "open_issues": 15,
                 "owner": "KuroLabs",
                 "repo": "stegcloak",
-                "stars": 3892,
+                "stars": 3894,
                 "topics": [
                   "cipher",
                   "compression",
@@ -2312,7 +2312,7 @@
                 "open_issues": 2,
                 "owner": "jes",
                 "repo": "chess-steg",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "chess",
                   "steganography"
@@ -2491,7 +2491,7 @@
                 "open_issues": 34,
                 "owner": "hephaest0s",
                 "repo": "usbkill",
-                "stars": 4652,
+                "stars": 4653,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -2575,7 +2575,7 @@
                 "open_issues": 62,
                 "owner": "BusKill",
                 "repo": "buskill-app",
-                "stars": 323,
+                "stars": 324,
                 "topics": [
                   "anti-forensics",
                   "cli",
@@ -2713,7 +2713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:27:09.949Z",
+    "last_updated": "2026-09-20T21:31:11.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",
@@ -2725,7 +2725,7 @@
       "open_issues": 6,
       "owner": "shadawck",
       "repo": "awesome-anti-forensic",
-      "stars": 1041,
+      "stars": 1042,
       "topics": [
         "anti-forensic",
         "anti-forensics",
