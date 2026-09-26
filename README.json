@@ -43,7 +43,7 @@
                 "open_issues": 1965,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22039,
+                "stars": 22046,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -389,7 +389,7 @@
                 "open_issues": 404,
                 "owner": "sleuthkit",
                 "repo": "autopsy",
-                "stars": 3351,
+                "stars": 3352,
                 "topics": [
                   "forensics",
                   "java"
@@ -409,11 +409,11 @@
                 "id": 2562873,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-09-25T19:30:04Z",
+                "last_commit": "2026-09-26T20:18:45Z",
                 "open_issues": 482,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3156,
+                "stars": 3154,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -559,7 +559,7 @@
                 "open_issues": 67,
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1427,
+                "stars": 1426,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -988,10 +988,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-14T12:46:56Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13822,
+                "stars": 13824,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1017,10 +1017,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-25T13:30:34Z",
-                "open_issues": 210,
+                "open_issues": 209,
                 "owner": "Exiv2",
                 "repo": "exiv2",
-                "stars": 1165,
+                "stars": 1166,
                 "topics": [
                   "cli",
                   "exif",
@@ -1126,7 +1126,7 @@
                 "open_issues": 1,
                 "owner": "elfmaster",
                 "repo": "saruman",
-                "stars": 147,
+                "stars": 148,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1223,11 +1223,11 @@
                 "id": 17578592,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-25T16:06:36Z",
-                "open_issues": 313,
+                "last_commit": "2026-09-26T14:13:57Z",
+                "open_issues": 316,
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 6992,
+                "stars": 6997,
                 "topics": [
                   "antiforensics",
                   "bleachbit",
@@ -1269,7 +1269,7 @@
                 "open_issues": 85,
                 "owner": "rapid7",
                 "repo": "metasploit-payloads",
-                "stars": 2064,
+                "stars": 2063,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1290,7 +1290,7 @@
                 "open_issues": 97,
                 "owner": "tuxera",
                 "repo": "ntfs-3g",
-                "stars": 1497,
+                "stars": 1498,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1918,7 +1918,7 @@
                 "open_issues": 2,
                 "owner": "DavidBuchanan314",
                 "repo": "tweetable-polyglot-png",
-                "stars": 2611,
+                "stars": 2610,
                 "topics": [
                   "png",
                   "polyglot",
@@ -2206,8 +2206,8 @@
                 "id": 287818201,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T19:32:40Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-25T23:57:08Z",
+                "open_issues": 4,
                 "owner": "woodruffw",
                 "repo": "steg86",
                 "stars": 324,
@@ -2385,7 +2385,7 @@
                 "open_issues": 17,
                 "owner": "rfxn",
                 "repo": "linux-malware-detect",
-                "stars": 1511,
+                "stars": 1512,
                 "topics": [
                   "bash",
                   "clamav",
@@ -2713,7 +2713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T22:18:07.027Z",
+    "last_updated": "2026-09-26T21:57:01.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",
@@ -2725,7 +2725,7 @@
       "open_issues": 6,
       "owner": "shadawck",
       "repo": "awesome-anti-forensic",
-      "stars": 1044,
+      "stars": 1043,
       "topics": [
         "anti-forensic",
         "anti-forensics",
