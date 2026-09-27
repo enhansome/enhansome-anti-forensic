@@ -40,10 +40,10 @@
                 "language": "Meson",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-25T11:15:58Z",
-                "open_issues": 1965,
+                "open_issues": 1966,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22046,
+                "stars": 22058,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -389,7 +389,7 @@
                 "open_issues": 404,
                 "owner": "sleuthkit",
                 "repo": "autopsy",
-                "stars": 3352,
+                "stars": 3353,
                 "topics": [
                   "forensics",
                   "java"
@@ -409,11 +409,11 @@
                 "id": 2562873,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-09-26T20:18:45Z",
-                "open_issues": 482,
+                "last_commit": "2026-09-27T18:13:21Z",
+                "open_issues": 481,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3154,
+                "stars": 3155,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -988,10 +988,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-14T12:46:56Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13824,
+                "stars": 13829,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1126,7 +1126,7 @@
                 "open_issues": 1,
                 "owner": "elfmaster",
                 "repo": "saruman",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1223,11 +1223,11 @@
                 "id": 17578592,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-26T14:13:57Z",
-                "open_issues": 316,
+                "last_commit": "2026-09-27T18:57:46Z",
+                "open_issues": 324,
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 6997,
+                "stars": 7003,
                 "topics": [
                   "antiforensics",
                   "bleachbit",
@@ -1287,10 +1287,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-23T14:54:51Z",
-                "open_issues": 97,
+                "open_issues": 98,
                 "owner": "tuxera",
                 "repo": "ntfs-3g",
-                "stars": 1498,
+                "stars": 1499,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1519,7 +1519,7 @@
                 "open_issues": 18,
                 "owner": "AlessandroZ",
                 "repo": "LaZagne",
-                "stars": 10993,
+                "stars": 10996,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1760,7 +1760,7 @@
                 "open_issues": 24,
                 "owner": "williballenthin",
                 "repo": "python-evtx",
-                "stars": 780,
+                "stars": 781,
                 "topics": [
                   "event-log",
                   "evtx",
@@ -1855,7 +1855,7 @@
                 "open_issues": 15,
                 "owner": "KuroLabs",
                 "repo": "stegcloak",
-                "stars": 3899,
+                "stars": 3900,
                 "topics": [
                   "cipher",
                   "compression",
@@ -2448,7 +2448,7 @@
                 "open_issues": 21,
                 "owner": "aforensics",
                 "repo": "HiddenVM",
-                "stars": 2678,
+                "stars": 2679,
                 "topics": [
                   "anti-forensics",
                   "antiforensics",
@@ -2691,7 +2691,7 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-04-17T09:36:37Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "guardianproject",
                 "repo": "ripple",
                 "stars": 297,
@@ -2713,7 +2713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T21:57:01.469Z",
+    "last_updated": "2026-09-27T22:07:45.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",
@@ -2725,7 +2725,7 @@
       "open_issues": 6,
       "owner": "shadawck",
       "repo": "awesome-anti-forensic",
-      "stars": 1043,
+      "stars": 1042,
       "topics": [
         "anti-forensic",
         "anti-forensics",
