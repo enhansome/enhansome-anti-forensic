@@ -40,10 +40,10 @@
                 "language": "Meson",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-25T11:15:58Z",
-                "open_issues": 1968,
+                "open_issues": 1969,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22070,
+                "stars": 22082,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -156,7 +156,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-19T11:14:25Z",
-                "open_issues": 93,
+                "open_issues": 95,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
                 "stars": 2610,
@@ -223,7 +223,7 @@
                 "open_issues": 6,
                 "owner": "korczis",
                 "repo": "foremost",
-                "stars": 379,
+                "stars": 380,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -386,10 +386,10 @@
                 "language": "Java",
                 "license": null,
                 "last_commit": "2026-06-20T05:43:47Z",
-                "open_issues": 404,
+                "open_issues": 405,
                 "owner": "sleuthkit",
                 "repo": "autopsy",
-                "stars": 3354,
+                "stars": 3355,
                 "topics": [
                   "forensics",
                   "java"
@@ -413,7 +413,7 @@
                 "open_issues": 481,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3156,
+                "stars": 3157,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -440,7 +440,7 @@
                 "open_issues": 13,
                 "owner": "DidierStevens",
                 "repo": "DidierStevensSuite",
-                "stars": 2544,
+                "stars": 2542,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -461,7 +461,7 @@
                 "open_issues": 13,
                 "owner": "DidierStevens",
                 "repo": "DidierStevensSuite",
-                "stars": 2544,
+                "stars": 2542,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -601,7 +601,7 @@
                 "open_issues": 35,
                 "owner": "Lazza",
                 "repo": "RecuperaBit",
-                "stars": 622,
+                "stars": 623,
                 "topics": [
                   "dfir",
                   "disk",
@@ -988,10 +988,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-14T12:46:56Z",
-                "open_issues": 11,
+                "open_issues": 13,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13831,
+                "stars": 13834,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1016,8 +1016,8 @@
                 "id": 89623031,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T18:33:47Z",
-                "open_issues": 209,
+                "last_commit": "2026-09-29T19:52:31Z",
+                "open_issues": 210,
                 "owner": "Exiv2",
                 "repo": "exiv2",
                 "stars": 1166,
@@ -1069,7 +1069,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2021-09-14T14:51:23Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "limbenjamin",
                 "repo": "nTimetools",
                 "stars": 53,
@@ -1223,11 +1223,11 @@
                 "id": 17578592,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T19:51:26Z",
-                "open_issues": 322,
+                "last_commit": "2026-09-29T16:28:00Z",
+                "open_issues": 320,
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 7010,
+                "stars": 7021,
                 "topics": [
                   "antiforensics",
                   "bleachbit",
@@ -1269,7 +1269,7 @@
                 "open_issues": 85,
                 "owner": "rapid7",
                 "repo": "metasploit-payloads",
-                "stars": 2063,
+                "stars": 2064,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1286,8 +1286,8 @@
                 "id": 343714504,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-28T09:12:38Z",
-                "open_issues": 98,
+                "last_commit": "2026-09-29T03:11:20Z",
+                "open_issues": 85,
                 "owner": "tuxera",
                 "repo": "ntfs-3g",
                 "stars": 1501,
@@ -1519,7 +1519,7 @@
                 "open_issues": 18,
                 "owner": "AlessandroZ",
                 "repo": "LaZagne",
-                "stars": 10997,
+                "stars": 10998,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1760,7 +1760,7 @@
                 "open_issues": 24,
                 "owner": "williballenthin",
                 "repo": "python-evtx",
-                "stars": 781,
+                "stars": 780,
                 "topics": [
                   "event-log",
                   "evtx",
@@ -1890,10 +1890,10 @@
                 "language": "Shell",
                 "license": null,
                 "last_commit": "2022-11-27T14:31:20Z",
-                "open_issues": 17,
+                "open_issues": 16,
                 "owner": "DominicBreuker",
                 "repo": "stego-toolkit",
-                "stars": 2692,
+                "stars": 2691,
                 "topics": [
                   "ctf-tools",
                   "docker-image",
@@ -1918,7 +1918,7 @@
                 "open_issues": 2,
                 "owner": "DavidBuchanan314",
                 "repo": "tweetable-polyglot-png",
-                "stars": 2609,
+                "stars": 2610,
                 "topics": [
                   "png",
                   "polyglot",
@@ -2185,7 +2185,7 @@
                 "open_issues": 7,
                 "owner": "bannsec",
                 "repo": "stegoVeritas",
-                "stars": 410,
+                "stars": 409,
                 "topics": [
                   "python3",
                   "steganography",
@@ -2448,7 +2448,7 @@
                 "open_issues": 21,
                 "owner": "aforensics",
                 "repo": "HiddenVM",
-                "stars": 2679,
+                "stars": 2678,
                 "topics": [
                   "anti-forensics",
                   "antiforensics",
@@ -2575,7 +2575,7 @@
                 "open_issues": 60,
                 "owner": "BusKill",
                 "repo": "buskill-app",
-                "stars": 325,
+                "stars": 326,
                 "topics": [
                   "anti-forensics",
                   "cli",
@@ -2694,7 +2694,7 @@
                 "open_issues": 18,
                 "owner": "guardianproject",
                 "repo": "ripple",
-                "stars": 297,
+                "stars": 298,
                 "topics": [
                   "panic",
                   "panic-button",
@@ -2713,7 +2713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:49:01.382Z",
+    "last_updated": "2026-09-29T22:56:39.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",
