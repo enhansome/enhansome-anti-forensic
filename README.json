@@ -43,7 +43,7 @@
                 "open_issues": 1972,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22103,
+                "stars": 22104,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -159,7 +159,7 @@
                 "open_issues": 95,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2616,
+                "stars": 2617,
                 "topics": [
                   "datacarving",
                   "datarecovery",
@@ -389,7 +389,7 @@
                 "open_issues": 406,
                 "owner": "sleuthkit",
                 "repo": "autopsy",
-                "stars": 3358,
+                "stars": 3359,
                 "topics": [
                   "forensics",
                   "java"
@@ -559,7 +559,7 @@
                 "open_issues": 67,
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1426,
+                "stars": 1427,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -988,10 +988,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-14T12:46:56Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13840,
+                "stars": 13842,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1519,7 +1519,7 @@
                 "open_issues": 18,
                 "owner": "AlessandroZ",
                 "repo": "LaZagne",
-                "stars": 11000,
+                "stars": 10999,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -2491,7 +2491,7 @@
                 "open_issues": 34,
                 "owner": "hephaest0s",
                 "repo": "usbkill",
-                "stars": 4662,
+                "stars": 4661,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -2713,7 +2713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:57:08.303Z",
+    "last_updated": "2026-10-03T04:35:29.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",
@@ -2725,7 +2725,7 @@
       "open_issues": 6,
       "owner": "shadawck",
       "repo": "awesome-anti-forensic",
-      "stars": 1043,
+      "stars": 1044,
       "topics": [
         "anti-forensic",
         "anti-forensics",
