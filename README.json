@@ -39,11 +39,11 @@
                 "id": 9405122,
                 "language": "Meson",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T05:56:27Z",
+                "last_commit": "2026-10-04T20:28:38Z",
                 "open_issues": 1972,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22111,
+                "stars": 22120,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -155,11 +155,11 @@
                 "id": 37376198,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-19T11:14:25Z",
+                "last_commit": "2026-10-04T08:50:22Z",
                 "open_issues": 95,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2619,
+                "stars": 2620,
                 "topics": [
                   "datacarving",
                   "datarecovery",
@@ -362,7 +362,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8059,
+                "stars": 8058,
                 "topics": [
                   "malware",
                   "memory",
@@ -409,8 +409,8 @@
                 "id": 2562873,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-01T17:00:46Z",
-                "open_issues": 481,
+                "last_commit": "2026-10-04T20:07:31Z",
+                "open_issues": 482,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
                 "stars": 3155,
@@ -991,7 +991,7 @@
                 "open_issues": 13,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13846,
+                "stars": 13851,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1048,7 +1048,7 @@
                 "language": "Shell",
                 "license": null,
                 "last_commit": "2024-03-27T20:39:48Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "sleuthkit",
                 "repo": "scalpel",
                 "stars": 690,
@@ -1223,11 +1223,11 @@
                 "id": 17578592,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T20:54:39Z",
-                "open_issues": 322,
+                "last_commit": "2026-10-04T04:51:32Z",
+                "open_issues": 325,
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 7041,
+                "stars": 7045,
                 "topics": [
                   "antiforensics",
                   "bleachbit",
@@ -1266,7 +1266,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-26T14:43:20Z",
-                "open_issues": 86,
+                "open_issues": 88,
                 "owner": "rapid7",
                 "repo": "metasploit-payloads",
                 "stars": 2065,
@@ -1290,7 +1290,7 @@
                 "open_issues": 81,
                 "owner": "tuxera",
                 "repo": "ntfs-3g",
-                "stars": 1504,
+                "stars": 1505,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1540,7 +1540,7 @@
                 "open_issues": 7,
                 "owner": "huntergregal",
                 "repo": "mimipenguin",
-                "stars": 4172,
+                "stars": 4173,
                 "topics": [
                   "password-extraction",
                   "post-exploitation"
@@ -1946,7 +1946,7 @@
                 "open_issues": 8,
                 "owner": "TryCatchHCF",
                 "repo": "Cloakify",
-                "stars": 1683,
+                "stars": 1684,
                 "topics": [
                   "av-evasion",
                   "cipher",
@@ -2385,7 +2385,7 @@
                 "open_issues": 17,
                 "owner": "rfxn",
                 "repo": "linux-malware-detect",
-                "stars": 1515,
+                "stars": 1516,
                 "topics": [
                   "bash",
                   "clamav",
@@ -2713,7 +2713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T22:07:08.698Z",
+    "last_updated": "2026-10-04T22:19:23.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",
