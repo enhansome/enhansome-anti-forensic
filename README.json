@@ -39,7 +39,7 @@
                 "id": 9405122,
                 "language": "Meson",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T06:30:52Z",
+                "last_commit": "2026-10-06T22:15:05Z",
                 "open_issues": 1972,
                 "owner": "frida",
                 "repo": "frida",
@@ -362,7 +362,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8056,
+                "stars": 8055,
                 "topics": [
                   "malware",
                   "memory",
@@ -389,7 +389,7 @@
                 "open_issues": 406,
                 "owner": "sleuthkit",
                 "repo": "autopsy",
-                "stars": 3362,
+                "stars": 3364,
                 "topics": [
                   "forensics",
                   "java"
@@ -409,11 +409,11 @@
                 "id": 2562873,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-06T05:01:48Z",
+                "last_commit": "2026-10-06T19:47:03Z",
                 "open_issues": 483,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3157,
+                "stars": 3158,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -482,7 +482,7 @@
                 "open_issues": 201,
                 "owner": "google",
                 "repo": "rekall",
-                "stars": 2005,
+                "stars": 2006,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -559,7 +559,7 @@
                 "open_issues": 68,
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1429,
+                "stars": 1432,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -991,7 +991,7 @@
                 "open_issues": 13,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13856,
+                "stars": 13857,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1017,10 +1017,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T12:21:41Z",
-                "open_issues": 211,
+                "open_issues": 213,
                 "owner": "Exiv2",
                 "repo": "exiv2",
-                "stars": 1165,
+                "stars": 1166,
                 "topics": [
                   "cli",
                   "exif",
@@ -1051,7 +1051,7 @@
                 "open_issues": 45,
                 "owner": "sleuthkit",
                 "repo": "scalpel",
-                "stars": 690,
+                "stars": 689,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1147,7 +1147,7 @@
                 "open_issues": 0,
                 "owner": "NtRaiseHardError",
                 "repo": "Kaiser",
-                "stars": 90,
+                "stars": 91,
                 "topics": [
                   "anti-forensics",
                   "file-less",
@@ -1227,7 +1227,7 @@
                 "open_issues": 328,
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 7050,
+                "stars": 7052,
                 "topics": [
                   "antiforensics",
                   "bleachbit",
@@ -1266,10 +1266,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-26T14:43:20Z",
-                "open_issues": 88,
+                "open_issues": 90,
                 "owner": "rapid7",
                 "repo": "metasploit-payloads",
-                "stars": 2066,
+                "stars": 2067,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1287,7 +1287,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-29T03:11:20Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "tuxera",
                 "repo": "ntfs-3g",
                 "stars": 1507,
@@ -1407,7 +1407,7 @@
                 "open_issues": 2,
                 "owner": "r3nt0n",
                 "repo": "wiper",
-                "stars": 78,
+                "stars": 77,
                 "topics": [
                   "cyber-security",
                   "cyberpunk",
@@ -1519,7 +1519,7 @@
                 "open_issues": 18,
                 "owner": "AlessandroZ",
                 "repo": "LaZagne",
-                "stars": 11004,
+                "stars": 11006,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1540,7 +1540,7 @@
                 "open_issues": 7,
                 "owner": "huntergregal",
                 "repo": "mimipenguin",
-                "stars": 4172,
+                "stars": 4174,
                 "topics": [
                   "password-extraction",
                   "post-exploitation"
@@ -1756,8 +1756,8 @@
                 "id": 7301482,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-03-19T17:20:16Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-06T11:41:15Z",
+                "open_issues": 24,
                 "owner": "williballenthin",
                 "repo": "python-evtx",
                 "stars": 781,
@@ -2185,7 +2185,7 @@
                 "open_issues": 7,
                 "owner": "bannsec",
                 "repo": "stegoVeritas",
-                "stars": 410,
+                "stars": 411,
                 "topics": [
                   "python3",
                   "steganography",
@@ -2448,7 +2448,7 @@
                 "open_issues": 21,
                 "owner": "aforensics",
                 "repo": "HiddenVM",
-                "stars": 2677,
+                "stars": 2678,
                 "topics": [
                   "anti-forensics",
                   "antiforensics",
@@ -2575,7 +2575,7 @@
                 "open_issues": 60,
                 "owner": "BusKill",
                 "repo": "buskill-app",
-                "stars": 325,
+                "stars": 326,
                 "topics": [
                   "anti-forensics",
                   "cli",
@@ -2713,7 +2713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:25:07.231Z",
+    "last_updated": "2026-10-06T23:02:40.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",

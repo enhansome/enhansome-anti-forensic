@@ -1,6 +1,6 @@
 # Awesome-anti-forensic with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,355 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,626 | 🐛 106 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff?\&style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -38,14 +38,14 @@ Tools and packages that are used for countering forensic activities, including e
 ### Analysis / Gathering tool (Know your ennemies)
 
 * [Volatility](https://github.com/volatilityfoundation/volatility) ⚠️ Archived : Advanced memory forensics framework.
-* [Autopsy](https://github.com/sleuthkit/autopsy) ⭐ 3,362 | 🐛 406 | 🌐 Java | 📅 2026-06-20 : The forensic browser. A GUI for the Sleuth Kit.
-* [Sleuthkit](https://github.com/sleuthkit/sleuthkit) ⭐ 3,157 | 🐛 483 | 🌐 C | 📅 2026-10-06 : A library and collection of command line digital forensics tools that allow you to investigate volume and file system data.
+* [Autopsy](https://github.com/sleuthkit/autopsy) ⭐ 3,364 | 🐛 406 | 🌐 Java | 📅 2026-06-20 : The forensic browser. A GUI for the Sleuth Kit.
+* [Sleuthkit](https://github.com/sleuthkit/sleuthkit) ⭐ 3,158 | 🐛 483 | 🌐 C | 📅 2026-10-06 : A library and collection of command line digital forensics tools that allow you to investigate volume and file system data.
 * [Emldump](https://github.com/DidierStevens/DidierStevensSuite/blob/master/emldump.py) ⭐ 2,545 | 🐛 13 | 🌐 Python | 📅 2026-09-23 : Analyze MIME files.
 * [Pdfid](https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdfid.py) ⭐ 2,545 | 🐛 13 | 🌐 Python | 📅 2026-09-23 : Scan a file to look for certain PDF keywords.
 * [Rekall](https://github.com/google/rekall) ⚠️ Archived : Memory Forensic Framework.
 * [PcapXray](https://github.com/Srinivas11789/PcapXray) ⭐ 1,883 | 🐛 15 | 🌐 Python | 📅 2026-05-01 : Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
 * [Peepdf](https://github.com/jesparza/peepdf) ⭐ 1,465 | 🐛 49 | 🌐 Python | 📅 2024-08-19 : A Python tool to explore PDF files in order to find out if the file can be harmful or not.
-* [Bulk-extractor](https://github.com/simsong/bulk_extractor) ⭐ 1,429 | 🐛 68 | 🌐 C++ | 📅 2026-09-01 : Bulk Email and URL extraction tool.
+* [Bulk-extractor](https://github.com/simsong/bulk_extractor) ⭐ 1,432 | 🐛 68 | 🌐 C++ | 📅 2026-09-01 : Bulk Email and URL extraction tool.
 * [captipper](https://github.com/omriher/CapTipper) ⭐ 724 | 🐛 15 | 🌐 Python | 📅 2023-03-16 : Malicious HTTP traffic explorer tool.
 * [Recuperabit](https://github.com/Lazza/RecuperaBit) ⭐ 624 | 🐛 35 | 🌐 Python | 📅 2026-07-26 : A tool for forensic file system reconstruction.
 * [Swap-digger](https://github.com/sevagas/swap_digger) ⭐ 534 | 🐛 1 | 🌐 Shell | 📅 2021-06-26 : A tool used to automate Linux swap analysis during post-exploitation or forensics.
@@ -78,30 +78,30 @@ Tools and packages that are used for countering forensic activities, including e
 
 ### Data tampering
 
-* [Exiftool](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,856 | 🐛 13 | 🌐 Python | 📅 2026-09-14 : Reader and rewriter of EXIF informations that supports raw files.
-* [Exiv2](https://github.com/Exiv2/exiv2) ⭐ 1,165 | 🐛 211 | 🌐 C++ | 📅 2026-10-01 : Exif, Iptc and XMP metadata manipulation library and tools.
-* [Scalpel](https://github.com/sleuthkit/scalpel) ⭐ 690 | 🐛 45 | 🌐 Shell | 📅 2024-03-27 : An open source data carving tool.
+* [Exiftool](https://github.com/qazbnm456/awesome-web-security) ⭐ 13,857 | 🐛 13 | 🌐 Python | 📅 2026-09-14 : Reader and rewriter of EXIF informations that supports raw files.
+* [Exiv2](https://github.com/Exiv2/exiv2) ⭐ 1,166 | 🐛 213 | 🌐 C++ | 📅 2026-10-01 : Exif, Iptc and XMP metadata manipulation library and tools.
+* [Scalpel](https://github.com/sleuthkit/scalpel) ⭐ 689 | 🐛 45 | 🌐 Shell | 📅 2024-03-27 : An open source data carving tool.
 * [nTimetools](https://github.com/limbenjamin/nTimetools) ⭐ 53 | 🐛 1 | 🌐 C | 📅 2021-09-14 : Timestomper and Timestamp checker with nanosecond accuracy for NTFS volumes.
 * [SetMace](https://github.com/jschicht/SetMace) ⭐ 53 | 🐛 4 | 🌐 AutoIt | 📅 2014-11-10 : Manipulate timestamps on NTFS.
 
 ### Hiding process
 
 * [Saruman](https://github.com/elfmaster/saruman) ⭐ 152 | 🐛 1 | 🌐 C | 📅 2026-09-30 : ELF anti-forensics exec, for injecting full dynamic executables into process image (With thread injection).
-* [Kaiser](https://github.com/ntraiseharderror/kaiser) ⭐ 90 | 🐛 0 | 🌐 C | 📅 2018-12-06 : File-less persistence, attacks and anti-forensic capabilities (Windows 7 32-bit).
+* [Kaiser](https://github.com/ntraiseharderror/kaiser) ⭐ 91 | 🐛 0 | 🌐 C | 📅 2018-12-06 : File-less persistence, attacks and anti-forensic capabilities (Windows 7 32-bit).
 * [Harness](https://github.com/droberson/harness) ⭐ 10 | 🐛 0 | 🌐 C | 📅 2019-07-21 : Execute ELFs in memory.
 * [Papa Shango](https://github.com/droberson/papa-shango) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2019-08-30 : Inject code into running processes with ptrace().
 * [Unhide](http://www.unhide-forensics.info/?Linux:Download) : A forensic tool to find processes hidden by rootkits, LKMs or by other techniques.
 
 ### Cleaner / Data Destruction / Wiping / FileSystem
 
-* [BleachBit](https://github.com/bleachbit/bleachbit) ⭐ 7,050 | 🐛 328 | 🌐 Python | 📅 2026-10-05 : System cleaner for Windows and Linux.
-* [Meterpreter > clearev](https://github.com/rapid7/metasploit-payloads) ⭐ 2,066 | 🐛 88 | 🌐 C | 📅 2026-08-26 : The meterpreter clearev command will clear the Application, System, and Security logs on a Windows system.
-* [NTFS-3G](https://github.com/tuxera/ntfs-3g) ⭐ 1,507 | 🐛 81 | 🌐 C | 📅 2026-09-29 : NTFS-3G Safe Read/Write NTFS Driver.
+* [BleachBit](https://github.com/bleachbit/bleachbit) ⭐ 7,052 | 🐛 328 | 🌐 Python | 📅 2026-10-05 : System cleaner for Windows and Linux.
+* [Meterpreter > clearev](https://github.com/rapid7/metasploit-payloads) ⭐ 2,067 | 🐛 90 | 🌐 C | 📅 2026-08-26 : The meterpreter clearev command will clear the Application, System, and Security logs on a Windows system.
+* [NTFS-3G](https://github.com/tuxera/ntfs-3g) ⭐ 1,507 | 🐛 82 | 🌐 C | 📅 2026-09-29 : NTFS-3G Safe Read/Write NTFS Driver.
 * [Forensia](https://github.com/PaulNorman01/Forensia) ⭐ 787 | 🐛 5 | 🌐 C++ | 📅 2023-06-23 : Anti Forensics Tool For Red Teamers, Used For Erasing Footprints In The Post Exploitation Phase.
 * [Silk-guardian](https://github.com/NateBrune/silk-guardian) ⭐ 731 | 🐛 9 | 🌐 C | 📅 2024-02-05 : An anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.
 * [delete-self-poc](https://github.com/LloydLabs/delete-self-poc) ⭐ 617 | 🐛 0 | 🌐 C | 📅 2025-11-05 : A way to delete a locked file, or current running executable, on disk.
 * [Wipedicks](https://github.com/Drewsif/wipedicks) ⭐ 138 | 🐛 1 | 🌐 Python | 📅 2019-11-25 : Wipe files and drives securely with randoms ASCII dicks.
-* [wiper](https://github.com/r3nt0n/wiper) ⭐ 78 | 🐛 2 | 🌐 Python | 📅 2023-01-16 : Toolkit to perform secure destruction of sensitive virtual data, temporary files and swap memories.
+* [wiper](https://github.com/r3nt0n/wiper) ⭐ 77 | 🐛 2 | 🌐 Python | 📅 2023-01-16 : Toolkit to perform secure destruction of sensitive virtual data, temporary files and swap memories.
 * [Nuke My LUKS](https://github.com/juliocesarfort/nukemyluks) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2016-08-31 : Network panic button designed to overwrite with random data the LUKS header of computers in a LAN.
 * [Wipe](https://github.com/berke/wipe) ⭐ 51 | 🐛 8 | 🌐 C | 📅 2022-12-23 : A Unix tool for secure deletion.
 * [Permanent-Eraser](https://github.com/edenwaith/Permanent-Eraser) ⭐ 23 | 🐛 4 | 🌐 C | 📅 2021-09-11 : Secure file erasing utility for macOS.
@@ -115,8 +115,8 @@ Tools and packages that are used for countering forensic activities, including e
 
 ### Password and Login
 
-* [lazagne](https://github.com/AlessandroZ/LaZagne) ⭐ 11,004 | 🐛 18 | 🌐 Python | 📅 2025-09-18 : An open source application used to retrieve lots of passwords stored on a local computer.
-* [Mimipenguin](https://github.com/huntergregal/mimipenguin) ⭐ 4,172 | 🐛 7 | 🌐 C | 📅 2025-09-05 : A tool to dump the login password from the current linux user.
+* [lazagne](https://github.com/AlessandroZ/LaZagne) ⭐ 11,006 | 🐛 18 | 🌐 Python | 📅 2025-09-18 : An open source application used to retrieve lots of passwords stored on a local computer.
+* [Mimipenguin](https://github.com/huntergregal/mimipenguin) ⭐ 4,174 | 🐛 7 | 🌐 C | 📅 2025-09-05 : A tool to dump the login password from the current linux user.
 * [chntpw](https://doc.ubuntu-fr.org/tutoriel/chntpw) : Offline NT Password Editor - reset passwords in a Windows NT SAM user database file.
 
 ### Encryption / Obfuscation
@@ -137,7 +137,7 @@ Tools and packages that are used for countering forensic activities, including e
 
 ### Policies / Logging (Event) / Monitoring
 
-* [python-evtx](https://github.com/williballenthin/python-evtx) ⭐ 781 | 🐛 25 | 🌐 Python | 📅 2026-03-19 : A tool to parse the Windows XML Event Log (EVTX) format.
+* [python-evtx](https://github.com/williballenthin/python-evtx) ⭐ 781 | 🐛 24 | 🌐 Python | 📅 2026-10-06 : A tool to parse the Windows XML Event Log (EVTX) format.
 * [Lfle](https://github.com/williballenthin/LfLe) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2015-10-09 : Recover event log entries from an image by heurisitically looking for record structures.
 * [evtkit](https://github.com/yarox24/evtkit) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2016-03-29 : Fix acquired .evt - Windows Event Log files (Forensics) \[windows]
 * [Grokevt](https://github.com/ecbftw/grokevt) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2024-07-12 : A collection of scripts built for reading Windows® NT/2K/XP/2K eventlog files. \[windows]
@@ -159,7 +159,7 @@ Tools and packages that are used for countering forensic activities, including e
 * [PacketWhisper](https://github.com/TryCatchHCF/PacketWhisper) ⭐ 655 | 🐛 4 | 🌐 Python | 📅 2021-06-03 : Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography.
 * [Jsteg](https://github.com/lukechampine/jsteg) ⭐ 647 | 🐛 0 | 🌐 Go | 📅 2023-05-11 : jsteg is a package for hiding data inside jpeg files.
 * [Stegdetect](https://github.com/abeluck/stegdetect) ⚠️ Archived : Automated tool for detecting steganographic content in images.
-* [StegoVeritas](https://github.com/bannsec/stegoVeritas) ⭐ 410 | 🐛 7 | 🌐 Python | 📅 2026-04-10 : Yet another Stego Tool.
+* [StegoVeritas](https://github.com/bannsec/stegoVeritas) ⭐ 411 | 🐛 7 | 🌐 Python | 📅 2026-04-10 : Yet another Stego Tool.
 * [steg86](https://github.com/woodruffw/steg86) ⭐ 324 | 🐛 4 | 🌐 Rust | 📅 2026-09-25 : Format-agnostic steganographic tool for x86 and AMD64 binaries. You can use it to hide information in compiled programs, regardless of executable format (PE, ELF, Mach-O, raw, \&c).
 * [AudioStego](https://github.com/danielcardeenas/AudioStego) ⭐ 300 | 🐛 5 | 🌐 C++ | 📅 2023-05-26 : Hides text or files inside audio files and retrieve them automatically.
 * [Stego](https://github.com/ajmwagar/stego) ⭐ 274 | 🐛 11 | 🌐 Rust | 📅 2022-06-06 : stego is a steganographic swiss army knife.
@@ -176,7 +176,7 @@ Tools and packages that are used for countering forensic activities, including e
 
 ### OS/VM
 
-* [HiddenVM](https://github.com/aforensics/HiddenVM) ⭐ 2,677 | 🐛 21 | 🌐 Shell | 📅 2024-07-18 : Use any desktop OS without leaving a trace.
+* [HiddenVM](https://github.com/aforensics/HiddenVM) ⭐ 2,678 | 🐛 21 | 🌐 Shell | 📅 2024-07-18 : Use any desktop OS without leaving a trace.
 * [Tails](https://tails.boum.org/index.en.html) : portable operating system that protects against surveillance and censorship.
 
 ### Hardware
@@ -185,7 +185,7 @@ Tools and packages that are used for countering forensic activities, including e
 * [Day Tripper](https://github.com/dekuNukem/daytripper) ⭐ 4,039 | 🐛 6 | 🌐 C | 📅 2026-01-04 : Hide-My-Windows Laser Tripwire.
 * [Silk Guardian](https://github.com/NateBrune/silk-guardian) ⭐ 731 | 🐛 9 | 🌐 C | 📅 2024-02-05 : Anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.
 * [DoNotDisturb](https://github.com/objective-see/DoNotDisturb) ⭐ 330 | 🐛 29 | 🌐 Objective-C | 📅 2026-09-14 : Security tool for macOS that aims to detect unauthorized physical access to your laptop.
-* [BusKill](https://github.com/BusKill/buskill-app) ⭐ 325 | 🐛 60 | 🌐 Python | 📅 2026-07-19 : BusKill is an hardware and software project that uses a hardware tripwire/dead-man-switch to trigger a computer to lock or shutdown if the user is physically separated from their machine.
+* [BusKill](https://github.com/BusKill/buskill-app) ⭐ 326 | 🐛 60 | 🌐 Python | 📅 2026-07-19 : BusKill is an hardware and software project that uses a hardware tripwire/dead-man-switch to trigger a computer to lock or shutdown if the user is physically separated from their machine.
 * [USB Death](https://github.com/trpt/usbdeath) ⭐ 130 | 🐛 1 | 🌐 Shell | 📅 2017-06-12 : Anti-forensic tool that writes udev rules for known usb devices and do some things at unknown usb insertion or specific usb device removal.
 * [xxUSBSentinel](https://github.com/thereisnotime/xxUSBSentinel) ⭐ 71 | 🐛 22 | 🌐 Rust | 📅 2026-08-03 : Windows anti-forensics USB monitoring tool.
 
