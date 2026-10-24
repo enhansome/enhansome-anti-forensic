@@ -40,10 +40,10 @@
                 "language": "Meson",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T11:52:04Z",
-                "open_issues": 1979,
+                "open_issues": 1978,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22429,
+                "stars": 22447,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -128,7 +128,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-15T22:38:12Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "sshock",
                 "repo": "AFFLIBv3",
                 "stars": 94,
@@ -155,7 +155,7 @@
                 "id": 37376198,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-04T08:50:22Z",
+                "last_commit": "2026-10-24T13:40:43Z",
                 "open_issues": 96,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
@@ -362,7 +362,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8054,
+                "stars": 8053,
                 "topics": [
                   "malware",
                   "memory",
@@ -389,7 +389,7 @@
                 "open_issues": 405,
                 "owner": "sleuthkit",
                 "repo": "autopsy",
-                "stars": 3409,
+                "stars": 3410,
                 "topics": [
                   "forensics",
                   "java"
@@ -410,10 +410,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-20T00:48:59Z",
-                "open_issues": 494,
+                "open_issues": 495,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3171,
+                "stars": 3172,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -440,7 +440,7 @@
                 "open_issues": 13,
                 "owner": "DidierStevens",
                 "repo": "DidierStevensSuite",
-                "stars": 2560,
+                "stars": 2562,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -461,7 +461,7 @@
                 "open_issues": 13,
                 "owner": "DidierStevens",
                 "repo": "DidierStevensSuite",
-                "stars": 2560,
+                "stars": 2562,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -538,7 +538,7 @@
                 "open_issues": 49,
                 "owner": "jesparza",
                 "repo": "peepdf",
-                "stars": 1469,
+                "stars": 1470,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -559,7 +559,7 @@
                 "open_issues": 68,
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1433,
+                "stars": 1434,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -988,10 +988,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-14T12:46:56Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13943,
+                "stars": 13948,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1017,7 +1017,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-22T09:55:54Z",
-                "open_issues": 231,
+                "open_issues": 232,
                 "owner": "Exiv2",
                 "repo": "exiv2",
                 "stars": 1168,
@@ -1126,7 +1126,7 @@
                 "open_issues": 1,
                 "owner": "elfmaster",
                 "repo": "saruman",
-                "stars": 153,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1223,11 +1223,11 @@
                 "id": 17578592,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-23T03:51:11Z",
+                "last_commit": "2026-10-24T19:23:57Z",
                 "open_issues": 335,
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 7223,
+                "stars": 7230,
                 "topics": [
                   "antiforensics",
                   "bleachbit",
@@ -1266,10 +1266,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-22T16:01:15Z",
-                "open_issues": 85,
+                "open_issues": 86,
                 "owner": "rapid7",
                 "repo": "metasploit-payloads",
-                "stars": 2076,
+                "stars": 2077,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1519,7 +1519,7 @@
                 "open_issues": 19,
                 "owner": "AlessandroZ",
                 "repo": "LaZagne",
-                "stars": 11047,
+                "stars": 11048,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -2074,7 +2074,7 @@
                 "id": 43174818,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-22T00:25:35Z",
+                "last_commit": "2026-10-24T16:20:01Z",
                 "open_issues": 0,
                 "owner": "ragibson",
                 "repo": "Steganography",
@@ -2448,7 +2448,7 @@
                 "open_issues": 21,
                 "owner": "aforensics",
                 "repo": "HiddenVM",
-                "stars": 2688,
+                "stars": 2687,
                 "topics": [
                   "anti-forensics",
                   "antiforensics",
@@ -2713,7 +2713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T22:07:09.606Z",
+    "last_updated": "2026-10-24T21:35:36.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",
@@ -2725,7 +2725,7 @@
       "open_issues": 5,
       "owner": "shadawck",
       "repo": "awesome-anti-forensic",
-      "stars": 1058,
+      "stars": 1059,
       "topics": [
         "anti-forensic",
         "anti-forensics",
