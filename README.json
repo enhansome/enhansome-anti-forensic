@@ -39,11 +39,11 @@
                 "id": 9405122,
                 "language": "Meson",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T23:48:39Z",
+                "last_commit": "2026-11-01T14:11:58Z",
                 "open_issues": 1981,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22577,
+                "stars": 22593,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -65,7 +65,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2020-12-27T18:29:17Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "Lekensteyn",
                 "repo": "dmg2img",
                 "stars": 272,
@@ -159,7 +159,7 @@
                 "open_issues": 96,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2658,
+                "stars": 2660,
                 "topics": [
                   "datacarving",
                   "datarecovery",
@@ -389,7 +389,7 @@
                 "open_issues": 405,
                 "owner": "sleuthkit",
                 "repo": "autopsy",
-                "stars": 3414,
+                "stars": 3421,
                 "topics": [
                   "forensics",
                   "java"
@@ -413,7 +413,7 @@
                 "open_issues": 495,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3181,
+                "stars": 3183,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -503,7 +503,7 @@
                 "open_issues": 15,
                 "owner": "srixivas",
                 "repo": "PcapXray",
-                "stars": 1892,
+                "stars": 1891,
                 "topics": [
                   "computer-forensics",
                   "cybersecurity",
@@ -559,7 +559,7 @@
                 "open_issues": 68,
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1438,
+                "stars": 1439,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -988,10 +988,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-14T12:46:56Z",
-                "open_issues": 30,
+                "open_issues": 29,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13980,
+                "stars": 13982,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1016,8 +1016,8 @@
                 "id": 89623031,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T21:33:08Z",
-                "open_issues": 228,
+                "last_commit": "2026-11-01T09:46:38Z",
+                "open_issues": 229,
                 "owner": "Exiv2",
                 "repo": "exiv2",
                 "stars": 1170,
@@ -1223,11 +1223,11 @@
                 "id": 17578592,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-31T21:13:02Z",
-                "open_issues": 320,
+                "last_commit": "2026-11-01T19:24:47Z",
+                "open_issues": 318,
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 7313,
+                "stars": 7334,
                 "topics": [
                   "antiforensics",
                   "bleachbit",
@@ -1287,10 +1287,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-29T03:11:20Z",
-                "open_issues": 89,
+                "open_issues": 90,
                 "owner": "tuxera",
                 "repo": "ntfs-3g",
-                "stars": 1531,
+                "stars": 1532,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1519,7 +1519,7 @@
                 "open_issues": 19,
                 "owner": "AlessandroZ",
                 "repo": "LaZagne",
-                "stars": 11060,
+                "stars": 11062,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1540,7 +1540,7 @@
                 "open_issues": 7,
                 "owner": "huntergregal",
                 "repo": "mimipenguin",
-                "stars": 4183,
+                "stars": 4185,
                 "topics": [
                   "password-extraction",
                   "post-exploitation"
@@ -1855,7 +1855,7 @@
                 "open_issues": 15,
                 "owner": "KuroLabs",
                 "repo": "stegcloak",
-                "stars": 3931,
+                "stars": 3932,
                 "topics": [
                   "cipher",
                   "compression",
@@ -2385,7 +2385,7 @@
                 "open_issues": 21,
                 "owner": "rfxn",
                 "repo": "linux-malware-detect",
-                "stars": 1545,
+                "stars": 1546,
                 "topics": [
                   "bash",
                   "clamav",
@@ -2448,7 +2448,7 @@
                 "open_issues": 21,
                 "owner": "aforensics",
                 "repo": "HiddenVM",
-                "stars": 2685,
+                "stars": 2686,
                 "topics": [
                   "anti-forensics",
                   "antiforensics",
@@ -2713,7 +2713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:27:30.079Z",
+    "last_updated": "2026-11-01T22:47:18.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",
