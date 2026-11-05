@@ -39,11 +39,11 @@
                 "id": 9405122,
                 "language": "Meson",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T21:59:05Z",
-                "open_issues": 1982,
+                "last_commit": "2026-11-04T11:54:26Z",
+                "open_issues": 1976,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22642,
+                "stars": 22652,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -159,7 +159,7 @@
                 "open_issues": 96,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2663,
+                "stars": 2669,
                 "topics": [
                   "datacarving",
                   "datarecovery",
@@ -389,7 +389,7 @@
                 "open_issues": 405,
                 "owner": "sleuthkit",
                 "repo": "autopsy",
-                "stars": 3423,
+                "stars": 3424,
                 "topics": [
                   "forensics",
                   "java"
@@ -410,10 +410,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-27T18:44:48Z",
-                "open_issues": 496,
+                "open_issues": 497,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3183,
+                "stars": 3184,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -440,7 +440,7 @@
                 "open_issues": 13,
                 "owner": "DidierStevens",
                 "repo": "DidierStevensSuite",
-                "stars": 2575,
+                "stars": 2576,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -461,7 +461,7 @@
                 "open_issues": 13,
                 "owner": "DidierStevens",
                 "repo": "DidierStevensSuite",
-                "stars": 2575,
+                "stars": 2576,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -482,7 +482,7 @@
                 "open_issues": 201,
                 "owner": "google",
                 "repo": "rekall",
-                "stars": 2007,
+                "stars": 2008,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -834,7 +834,7 @@
                 "open_issues": 1,
                 "owner": "enferex",
                 "repo": "pdfresurrect",
-                "stars": 107,
+                "stars": 108,
                 "topics": [
                   "forensic-analysis",
                   "pdf"
@@ -988,10 +988,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-11-02T14:05:42Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13997,
+                "stars": 14000,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1017,7 +1017,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-03T20:01:21Z",
-                "open_issues": 229,
+                "open_issues": 228,
                 "owner": "Exiv2",
                 "repo": "exiv2",
                 "stars": 1171,
@@ -1223,11 +1223,11 @@
                 "id": 17578592,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-03T16:38:35Z",
+                "last_commit": "2026-11-04T21:52:25Z",
                 "open_issues": 310,
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 7360,
+                "stars": 7378,
                 "topics": [
                   "antiforensics",
                   "bleachbit",
@@ -1269,7 +1269,7 @@
                 "open_issues": 86,
                 "owner": "rapid7",
                 "repo": "metasploit-payloads",
-                "stars": 2076,
+                "stars": 2075,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1519,7 +1519,7 @@
                 "open_issues": 19,
                 "owner": "AlessandroZ",
                 "repo": "LaZagne",
-                "stars": 11064,
+                "stars": 11065,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1855,7 +1855,7 @@
                 "open_issues": 15,
                 "owner": "KuroLabs",
                 "repo": "stegcloak",
-                "stars": 3932,
+                "stars": 3933,
                 "topics": [
                   "cipher",
                   "compression",
@@ -1946,7 +1946,7 @@
                 "open_issues": 8,
                 "owner": "TryCatchHCF",
                 "repo": "Cloakify",
-                "stars": 1690,
+                "stars": 1691,
                 "topics": [
                   "av-evasion",
                   "cipher",
@@ -2385,7 +2385,7 @@
                 "open_issues": 21,
                 "owner": "rfxn",
                 "repo": "linux-malware-detect",
-                "stars": 1547,
+                "stars": 1548,
                 "topics": [
                   "bash",
                   "clamav",
@@ -2491,7 +2491,7 @@
                 "open_issues": 34,
                 "owner": "hephaest0s",
                 "repo": "usbkill",
-                "stars": 4682,
+                "stars": 4680,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -2540,27 +2540,6 @@
             },
             {
               "node_type": "item",
-              "title": "DoNotDisturb",
-              "description": "Security tool for macOS that aims to detect unauthorized physical access to your laptop.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Detect Evil Maid Attacks",
-                "homepage": null,
-                "id": 119749154,
-                "language": "Objective-C",
-                "license": "GPL-3.0",
-                "last_commit": "2026-09-14T09:48:23Z",
-                "open_issues": 28,
-                "owner": "objective-see",
-                "repo": "DoNotDisturb",
-                "stars": 332,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:09:42.693Z"
-            },
-            {
-              "node_type": "item",
               "title": "BusKill",
               "description": "BusKill is an hardware and software project that uses a hardware tripwire/dead-man-switch to trigger a computer to lock or shutdown if the user is physically separated from their machine.",
               "children": [],
@@ -2575,7 +2554,7 @@
                 "open_issues": 60,
                 "owner": "BusKill",
                 "repo": "buskill-app",
-                "stars": 331,
+                "stars": 332,
                 "topics": [
                   "anti-forensics",
                   "cli",
@@ -2593,6 +2572,27 @@
                   "usb",
                   "windows"
                 ]
+              },
+              "first_seen": "2026-08-29T02:09:42.693Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DoNotDisturb",
+              "description": "Security tool for macOS that aims to detect unauthorized physical access to your laptop.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Detect Evil Maid Attacks",
+                "homepage": null,
+                "id": 119749154,
+                "language": "Objective-C",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-14T09:48:23Z",
+                "open_issues": 28,
+                "owner": "objective-see",
+                "repo": "DoNotDisturb",
+                "stars": 332,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
             },
@@ -2713,7 +2713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T23:57:55.192Z",
+    "last_updated": "2026-11-05T00:21:53.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",
