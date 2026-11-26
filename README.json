@@ -26,7 +26,7 @@
                     "open_issues": 27,
                     "owner": "Nightbringer21",
                     "repo": "fridump",
-                    "stars": 863,
+                    "stars": 865,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:09:42.693Z"
@@ -39,11 +39,11 @@
                 "id": 9405122,
                 "language": "Meson",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-23T22:34:21Z",
-                "open_issues": 1968,
+                "last_commit": "2026-11-25T22:03:01Z",
+                "open_issues": 1967,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22925,
+                "stars": 22964,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -89,7 +89,7 @@
                 "open_issues": 1,
                 "owner": "intel",
                 "repo": "bmap-tools",
-                "stars": 239,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -159,7 +159,7 @@
                 "open_issues": 96,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2699,
+                "stars": 2701,
                 "topics": [
                   "datacarving",
                   "datarecovery",
@@ -278,6 +278,27 @@
             },
             {
               "node_type": "item",
+              "title": "MagicRescue",
+              "description": "Find and recover deleted files on block devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Not under active development. Magic Rescue was a tool for recovering files from a corrupted file system.",
+                "homepage": null,
+                "id": 153133657,
+                "language": "C",
+                "license": "GPL-2.0",
+                "last_commit": "2021-09-12T16:00:40Z",
+                "open_issues": 1,
+                "owner": "jbj",
+                "repo": "magicrescue",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:09:42.693Z"
+            },
+            {
+              "node_type": "item",
               "title": "MemDump",
               "description": "Dumps system memory to stdout, skipping over holes in memory maps.",
               "children": [],
@@ -314,27 +335,6 @@
                 "owner": "lcorbasson",
                 "repo": "scrounge-ntfs",
                 "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:09:42.693Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MagicRescue",
-              "description": "Find and recover deleted files on block devices.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Not under active development. Magic Rescue was a tool for recovering files from a corrupted file system.",
-                "homepage": null,
-                "id": 153133657,
-                "language": "C",
-                "license": "GPL-2.0",
-                "last_commit": "2021-09-12T16:00:40Z",
-                "open_issues": 1,
-                "owner": "jbj",
-                "repo": "magicrescue",
-                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -389,7 +389,7 @@
                 "open_issues": 406,
                 "owner": "sleuthkit",
                 "repo": "autopsy",
-                "stars": 3463,
+                "stars": 3466,
                 "topics": [
                   "forensics",
                   "java"
@@ -409,11 +409,11 @@
                 "id": 2562873,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-11-19T17:12:06Z",
+                "last_commit": "2026-11-25T17:36:38Z",
                 "open_issues": 501,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3204,
+                "stars": 3206,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -440,7 +440,7 @@
                 "open_issues": 13,
                 "owner": "DidierStevens",
                 "repo": "DidierStevensSuite",
-                "stars": 2581,
+                "stars": 2582,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -461,7 +461,7 @@
                 "open_issues": 13,
                 "owner": "DidierStevens",
                 "repo": "DidierStevensSuite",
-                "stars": 2581,
+                "stars": 2582,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -538,7 +538,7 @@
                 "open_issues": 49,
                 "owner": "jesparza",
                 "repo": "peepdf",
-                "stars": 1469,
+                "stars": 1471,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -559,7 +559,7 @@
                 "open_issues": 69,
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1451,
+                "stars": 1452,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -991,7 +991,7 @@
                 "open_issues": 26,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 14097,
+                "stars": 14105,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1051,7 +1051,7 @@
                 "open_issues": 45,
                 "owner": "sleuthkit",
                 "repo": "scalpel",
-                "stars": 691,
+                "stars": 692,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1227,7 +1227,7 @@
                 "open_issues": 283,
                 "owner": "bleachbit",
                 "repo": "bleachbit",
-                "stars": 7589,
+                "stars": 7607,
                 "topics": [
                   "antiforensics",
                   "bleachbit",
@@ -1269,7 +1269,7 @@
                 "open_issues": 84,
                 "owner": "rapid7",
                 "repo": "metasploit-payloads",
-                "stars": 2084,
+                "stars": 2088,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1311,7 +1311,7 @@
                 "open_issues": 5,
                 "owner": "PaulNorman01",
                 "repo": "Forensia",
-                "stars": 792,
+                "stars": 793,
                 "topics": [
                   "anti-forensics",
                   "evasion",
@@ -1338,7 +1338,7 @@
                 "open_issues": 7,
                 "owner": "NateBrune",
                 "repo": "silk-guardian",
-                "stars": 734,
+                "stars": 735,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1359,7 +1359,7 @@
                 "open_issues": 0,
                 "owner": "LloydLabs",
                 "repo": "delete-self-poc",
-                "stars": 616,
+                "stars": 617,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1449,7 +1449,7 @@
                 "open_issues": 0,
                 "owner": "juliocesarfort",
                 "repo": "nukemyluks",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1519,7 +1519,7 @@
                 "open_issues": 19,
                 "owner": "AlessandroZ",
                 "repo": "LaZagne",
-                "stars": 11101,
+                "stars": 11102,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -1540,7 +1540,7 @@
                 "open_issues": 7,
                 "owner": "huntergregal",
                 "repo": "mimipenguin",
-                "stars": 4190,
+                "stars": 4191,
                 "topics": [
                   "password-extraction",
                   "post-exploitation"
@@ -1855,7 +1855,7 @@
                 "open_issues": 14,
                 "owner": "KuroLabs",
                 "repo": "stegcloak",
-                "stars": 3938,
+                "stars": 3939,
                 "topics": [
                   "cipher",
                   "compression",
@@ -1893,7 +1893,7 @@
                 "open_issues": 16,
                 "owner": "DominicBreuker",
                 "repo": "stego-toolkit",
-                "stars": 2702,
+                "stars": 2703,
                 "topics": [
                   "ctf-tools",
                   "docker-image",
@@ -1946,7 +1946,7 @@
                 "open_issues": 8,
                 "owner": "TryCatchHCF",
                 "repo": "Cloakify",
-                "stars": 1691,
+                "stars": 1692,
                 "topics": [
                   "av-evasion",
                   "cipher",
@@ -1988,7 +1988,7 @@
                 "open_issues": 1,
                 "owner": "DimitarPetrov",
                 "repo": "stegify",
-                "stars": 1267,
+                "stars": 1268,
                 "topics": [
                   "cli",
                   "decoding",
@@ -2185,7 +2185,7 @@
                 "open_issues": 7,
                 "owner": "bannsec",
                 "repo": "stegoVeritas",
-                "stars": 416,
+                "stars": 417,
                 "topics": [
                   "python3",
                   "steganography",
@@ -2385,7 +2385,7 @@
                 "open_issues": 23,
                 "owner": "rfxn",
                 "repo": "linux-malware-detect",
-                "stars": 1560,
+                "stars": 1561,
                 "topics": [
                   "bash",
                   "clamav",
@@ -2448,7 +2448,7 @@
                 "open_issues": 21,
                 "owner": "aforensics",
                 "repo": "HiddenVM",
-                "stars": 2688,
+                "stars": 2690,
                 "topics": [
                   "anti-forensics",
                   "antiforensics",
@@ -2533,7 +2533,7 @@
                 "open_issues": 7,
                 "owner": "NateBrune",
                 "repo": "silk-guardian",
-                "stars": 734,
+                "stars": 735,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:09:42.693Z"
@@ -2633,7 +2633,7 @@
                 "open_issues": 22,
                 "owner": "thereisnotime",
                 "repo": "xxUSBSentinel",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "anti-forensic",
                   "anti-forensics",
@@ -2713,7 +2713,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:01:23.087Z",
+    "last_updated": "2026-11-26T02:11:15.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",
@@ -2725,7 +2725,7 @@
       "open_issues": 5,
       "owner": "shadawck",
       "repo": "awesome-anti-forensic",
-      "stars": 1058,
+      "stars": 1060,
       "topics": [
         "anti-forensic",
         "anti-forensics",
